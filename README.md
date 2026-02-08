@@ -1,6 +1,6 @@
 # TabMur single-donor demo (1-M-62)
 
-This package provides source code and a small dataset to compute cohort-standardized developmental stage mutation burden for TabMur donor 1-M-62 and save a cumulative plot. The demo runs using only files inside the `Lore2026_Nature/` download.
+This package provides source code and a small dataset to compute cohort-standardized developmental stage mutation burden for TabMur donor 1-M-62 and save a cumulative plot. 
 
 ## Package contents
 
@@ -17,12 +17,8 @@ This package provides source code and a small dataset to compute cohort-standard
 
 ## Installation guide
 
-1) Download and unzip `Lore2026_Nature/`, then change into this directory.
-2) Create and activate a virtual environment.
-3) Install dependencies.
-
 ```bash
-cd Lore2026_Nature/tabmur_single_donor_demo
+cd tabmur_single_donor_demo
 python3 -m venv .venv
 . .venv/bin/activate
 python3 -m pip install pandas==2.2.3 numpy==2.1.3 matplotlib==3.10.1
@@ -99,7 +95,7 @@ MIT License (see `LICENSE`).
 
 ## Code repository
 
-[https://github.com/sierra-lore/Lore2026_Nature](https://github.com/scheibye-knudsen-lab/sommuts-dev-timing)
+https://github.com/scheibye-knudsen-lab/sommuts-dev-timing
 
 ## Additional pseudocode location in manuscript
 
