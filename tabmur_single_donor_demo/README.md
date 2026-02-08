@@ -99,8 +99,8 @@ MIT License (see `LICENSE`).
 
 ## Code repository
 
-https://github.com/sierra-lore/Lore2026_Nature
+[https://github.com/sierra-lore/Lore2026_Nature](https://github.com/scheibye-knudsen-lab/sommuts-dev-timing)
 
-## Pseudocode location in manuscript
+## Additional pseudocode location in manuscript
 
 Methods section.
