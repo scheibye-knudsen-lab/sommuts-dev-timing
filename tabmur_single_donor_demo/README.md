@@ -85,10 +85,6 @@ python3 run_stage_burden_demo_single_donor.py
 
 Expected outputs are the same as in the demo section (written to `demo_results/`).
 
-## Reproduction instructions (optional)
-
-To reproduce manuscript-scale results, run the full cohort pipeline on all donors to generate the full `outputs` tree and `cb_table__any_type.csv`, then generate cohort reference weights/stage labels with `build_reference_cohort_files.py` and run the stage burden script per donor.
-
 ## License
 
 MIT License (see `LICENSE`).
