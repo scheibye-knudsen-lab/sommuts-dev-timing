@@ -1,0 +1,16 @@
+germ_layer,tissue,weight
+Ectoderm,Skin,0.33621584226911105
+Ectoderm,Tongue,0.663784157730889
+Endoderm,Bladder,0.21470506010623427
+Endoderm,Large_Intestine,0.24433883142298016
+Endoderm,Pancreas,0.5409561084707856
+Mesoderm,Fat,0.10873287671232877
+Mesoderm,Heart_and_Aorta,0.12268835616438356
+Mesoderm,Kidney,0.09790239726027397
+Mesoderm,Limb_Muscle,0.22559931506849315
+Mesoderm,Liver,0.03771404109589041
+Mesoderm,Lung,0.0764126712328767
+Mesoderm,Mammary_Gland,0.06763698630136987
+Mesoderm,Marrow,0.0543236301369863
+Mesoderm,Spleen,0.17054794520547945
+Mesoderm,Thymus,0.038441780821917806

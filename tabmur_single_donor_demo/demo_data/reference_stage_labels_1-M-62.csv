@@ -1,0 +1,1134 @@
+var_id,stage_label
+chr15:79907777_A>G,Post-gastrulation
+chr17:34269091_A>G,Post-gastrulation
+chr19:53923438_C>G,Post-gastrulation
+chr1:9826947_T>C,Cell type-specific
+chr1:85726052_C>T,Cell type-specific
+chr10:25379871_A>G,Tissue-specific
+chr11:72714083_T>C,Tissue-specific
+chr14:26932570_T>A,Cell type-specific
+chr17:39848050_T>A,Tissue-specific
+chr2:174614480_G>A,Cell type-specific
+chr3:87928861_A>G,Cell type-specific
+chr3:105943751_T>C,Cell type-specific
+chr7:122079294_T>C,Post-gastrulation
+chr8:110974645_T>C,Pre-gastrulation
+chr8:111293571_T>A,Tissue-specific
+chr9:21695998_T>C,Pre-gastrulation
+chr9:120130182_G>T,Pre-gastrulation
+chrX:73686403_G>A,Post-gastrulation
+chr2:43829550_A>G,Post-gastrulation
+chr1:88259005_A>G,Tissue-specific
+chr19:11393010_A>G,Post-gastrulation
+chr11:32297143_G>A,Cell type-specific
+chr6:83343347_T>G,Pre-gastrulation
+chr16:26072320_A>C,Cell type-specific
+chr6:38348658_T>C,Pre-gastrulation
+chr8:111550538_A>G,Cell type-specific
+chr11:80075446_C>T,Cell type-specific
+chr11:93954464_T>C,Tissue-specific
+chr12:25021420_A>G,Tissue-specific
+chr13:91484208_T>C,Cell type-specific
+chr15:79521752_T>C,Tissue-specific
+chr15:82152208_C>T,Cell type-specific
+chr17:39845863_C>T,Post-gastrulation
+chr17:47552608_A>G,Post-gastrulation
+chr17:78407387_A>G,Cell type-specific
+chr18:35185347_A>G,Tissue-specific
+chr19:36997240_A>G,Post-gastrulation
+chr3:90253307_T>C,Tissue-specific
+chr3:105685096_C>T,Cell type-specific
+chr5:110715369_T>C,Post-gastrulation
+chr7:106516154_C>A,Cell type-specific
+chr9:13806326_A>G,Post-gastrulation
+chr15:36595815_T>C,Pre-gastrulation
+chr4:42992699_T>C,Pre-gastrulation
+chr5:111455117_T>C,Pre-gastrulation
+chr6:48079830_T>C,Tissue-specific
+chr1:80715420_T>C,Cell type-specific
+chr12:84971731_A>G,Pre-gastrulation
+chr12:85321194_T>A,Cell type-specific
+chr16:20691199_T>C,Cell type-specific
+chr19:10587398_A>G,Cell type-specific
+chr3:89167968_A>G,Pre-gastrulation
+chr6:38577211_A>G,Pre-gastrulation
+chr7:126790795_T>C,Post-gastrulation
+chr1:4872282_A>G,Cell type-specific
+chr1:34455586_A>G,Cell type-specific
+chr1:36366307_A>G,Cell type-specific
+chr1:60539831_T>C,Cell type-specific
+chr1:74405688_A>G,Cell type-specific
+chr1:74683331_A>G,Cell type-specific
+chr1:82747397_A>G,Cell type-specific
+chr1:87303831_A>G,Pre-gastrulation
+chr1:87985545_T>C,Cell type-specific
+chr1:93756566_A>G,Cell type-specific
+chr1:171327099_T>C,Cell type-specific
+chr1:180803961_T>C,Pre-gastrulation
+chr1:181191178_A>G,Pre-gastrulation
+chr10:12782866_T>C,Pre-gastrulation
+chr10:12850689_T>C,Pre-gastrulation
+chr10:42505385_A>G,Pre-gastrulation
+chr10:44059872_T>C,Cell type-specific
+chr10:62338070_T>C,Cell type-specific
+chr10:79685355_C>T,Pre-gastrulation
+chr10:80163562_A>G,Cell type-specific
+chr10:119727349_A>G,Pre-gastrulation
+chr10:119774969_C>T,Tissue-specific
+chr10:128170457_T>C,Cell type-specific
+chr11:3200023_T>C,Cell type-specific
+chr11:5045549_A>G,Cell type-specific
+chr11:20321987_T>C,Cell type-specific
+chr11:20590389_A>G,Cell type-specific
+chr11:21995005_G>T,Cell type-specific
+chr11:22104528_T>C,Cell type-specific
+chr11:22983450_A>G,Pre-gastrulation
+chr11:50213854_A>G,Pre-gastrulation
+chr11:58070964_A>G,Cell type-specific
+chr11:69638256_T>C,Cell type-specific
+chr11:70848333_A>G,Pre-gastrulation
+chr11:70861728_A>G,Cell type-specific
+chr11:75593608_A>G,Pre-gastrulation
+chr11:77380003_A>G,Cell type-specific
+chr11:77543870_T>C,Cell type-specific
+chr11:95417737_A>G,Cell type-specific
+chr11:98847676_A>G,Cell type-specific
+chr11:100324676_A>G,Pre-gastrulation
+chr11:100325964_T>C,Cell type-specific
+chr11:100358349_T>C,Cell type-specific
+chr11:100810315_T>C,Pre-gastrulation
+chr11:100869389_T>C,Cell type-specific
+chr11:102158400_T>C,Cell type-specific
+chr11:102182343_T>C,Pre-gastrulation
+chr11:102251140_A>G,Pre-gastrulation
+chr11:103122750_T>C,Pre-gastrulation
+chr11:103122760_T>C,Cell type-specific
+chr11:105764851_A>G,Cell type-specific
+chr11:106812573_G>A,Cell type-specific
+chr11:107336703_T>C,Pre-gastrulation
+chr11:116176338_T>C,Pre-gastrulation
+chr11:116468848_T>C,Cell type-specific
+chr11:118155942_T>C,Tissue-specific
+chr11:120338107_T>C,Pre-gastrulation
+chr12:3291212_T>C,Pre-gastrulation
+chr12:55816892_C>T,Cell type-specific
+chr12:55837718_T>C,Cell type-specific
+chr12:58969238_T>C,Cell type-specific
+chr12:59217413_T>C,Tissue-specific
+chr12:75803718_T>C,Cell type-specific
+chr12:87383546_T>C,Tissue-specific
+chr12:91823111_T>C,Cell type-specific
+chr12:100601315_T>C,Cell type-specific
+chr12:102772070_A>G,Cell type-specific
+chr12:111551539_A>G,Pre-gastrulation
+chr13:43449167_T>C,Cell type-specific
+chr13:48505323_T>C,Cell type-specific
+chr13:94234170_T>C,Pre-gastrulation
+chr13:109631460_A>G,Cell type-specific
+chr14:20333699_T>C,Cell type-specific
+chr14:20499069_T>C,Pre-gastrulation
+chr14:30582908_G>A,Cell type-specific
+chr14:56896518_A>G,Cell type-specific
+chr14:74783983_A>G,Cell type-specific
+chr14:74940635_T>C,Cell type-specific
+chr15:73330249_A>G,Cell type-specific
+chr15:78913308_T>C,Cell type-specific
+chr15:79073678_G>A,Tissue-specific
+chr15:80907023_A>G,Pre-gastrulation
+chr15:81094674_T>C,Pre-gastrulation
+chr15:83280564_T>C,Cell type-specific
+chr15:85607096_A>G,Cell type-specific
+chr15:85908271_T>C,Cell type-specific
+chr15:98910329_T>C,Cell type-specific
+chr15:100128888_A>G,Cell type-specific
+chr17:12767517_A>G,Cell type-specific
+chr17:12767527_A>G,Pre-gastrulation
+chr17:28319363_A>G,Cell type-specific
+chr17:45576490_A>G,Cell type-specific
+chr18:6125774_T>C,Cell type-specific
+chr18:35127773_A>G,Pre-gastrulation
+chr18:38458176_G>A,Pre-gastrulation
+chr18:67313236_A>G,Cell type-specific
+chr18:74963646_T>C,Cell type-specific
+chr19:5664107_A>G,Cell type-specific
+chr19:46183869_A>G,Cell type-specific
+chr19:47064951_T>C,Cell type-specific
+chr2:24921063_C>T,Cell type-specific
+chr2:34409061_A>G,Cell type-specific
+chr2:38152301_T>C,Cell type-specific
+chr2:39204647_T>C,Pre-gastrulation
+chr2:91840166_A>G,Cell type-specific
+chr2:104843265_T>C,Tissue-specific
+chr2:117139691_A>T,Pre-gastrulation
+chr2:119053644_A>G,Cell type-specific
+chr2:122030093_A>G,Cell type-specific
+chr2:122062908_A>G,Pre-gastrulation
+chr2:130872823_T>C,Pre-gastrulation
+chr2:152292327_A>G,Cell type-specific
+chr2:155757621_A>G,Cell type-specific
+chr2:157039306_T>C,Cell type-specific
+chr2:173659019_A>T,Cell type-specific
+chr3:88441835_T>C,Cell type-specific
+chr3:97934533_A>G,Cell type-specific
+chr3:113594526_T>C,Tissue-specific
+chr3:116871881_A>G,Cell type-specific
+chr3:127690833_T>A,Cell type-specific
+chr4:21856145_A>G,Cell type-specific
+chr4:21856199_A>G,Cell type-specific
+chr4:32935727_T>C,Cell type-specific
+chr4:109045389_T>C,Pre-gastrulation
+chr4:115802914_A>G,Cell type-specific
+chr4:117144997_T>C,Pre-gastrulation
+chr4:117145027_T>C,Pre-gastrulation
+chr4:122840227_C>T,Cell type-specific
+chr4:123648886_A>G,Cell type-specific
+chr4:126055918_A>G,Post-gastrulation
+chr4:132536548_A>G,Pre-gastrulation
+chr4:135351246_T>C,Cell type-specific
+chr4:150478405_A>G,Cell type-specific
+chr5:29747056_A>G,Cell type-specific
+chr5:32783699_T>C,Cell type-specific
+chr5:33118275_A>G,Pre-gastrulation
+chr5:76195303_T>C,Cell type-specific
+chr5:77349246_G>T,Pre-gastrulation
+chr5:88653764_A>G,Cell type-specific
+chr5:90246074_T>C,Cell type-specific
+chr5:92026985_T>C,Pre-gastrulation
+chr5:92878237_A>G,Pre-gastrulation
+chr5:118608302_A>G,Cell type-specific
+chr5:123624298_T>C,Cell type-specific
+chr5:124458001_A>G,Cell type-specific
+chr5:134574213_T>C,Cell type-specific
+chr5:135692835_A>G,Tissue-specific
+chr5:139485118_A>G,Tissue-specific
+chr5:149638077_A>G,Cell type-specific
+chr6:29738255_A>G,Cell type-specific
+chr6:39214406_A>G,Tissue-specific
+chr6:66540825_A>G,Pre-gastrulation
+chr6:67282342_A>G,Cell type-specific
+chr6:71408744_T>C,Cell type-specific
+chr6:71408751_T>C,Cell type-specific
+chr6:119836492_T>C,Pre-gastrulation
+chr6:134795819_T>C,Pre-gastrulation
+chr6:148830397_T>C,Cell type-specific
+chr7:12921540_T>C,Cell type-specific
+chr7:27143439_A>G,Cell type-specific
+chr7:27590782_A>G,Cell type-specific
+chr7:27590789_A>G,Cell type-specific
+chr7:27590799_A>G,Cell type-specific
+chr7:29345178_T>C,Pre-gastrulation
+chr7:34159287_T>C,Cell type-specific
+chr7:80394858_T>C,Cell type-specific
+chr7:80842810_A>G,Cell type-specific
+chr7:98285061_T>C,Tissue-specific
+chr7:102190280_T>C,Pre-gastrulation
+chr7:102299777_A>G,Tissue-specific
+chr7:126790656_T>C,Cell type-specific
+chr7:127254612_A>G,Pre-gastrulation
+chr7:127694760_T>C,Cell type-specific
+chr7:130611744_A>G,Tissue-specific
+chr8:27146904_T>C,Tissue-specific
+chr8:31966452_T>C,Cell type-specific
+chr8:31966481_T>C,Cell type-specific
+chr8:71619010_A>G,Cell type-specific
+chr8:75095325_A>G,Cell type-specific
+chr8:77496859_T>C,Pre-gastrulation
+chr8:83637126_T>C,Cell type-specific
+chr8:105438933_A>G,Cell type-specific
+chr8:107304243_A>G,Pre-gastrulation
+chr8:107363339_A>G,Cell type-specific
+chr8:107417452_T>C,Tissue-specific
+chr8:110861820_A>G,Pre-gastrulation
+chr8:119996517_A>G,Pre-gastrulation
+chr8:122504479_T>C,Cell type-specific
+chr8:124931334_T>C,Cell type-specific
+chr8:124931370_T>C,Cell type-specific
+chr9:21236395_T>C,Cell type-specific
+chr9:21829160_T>C,Pre-gastrulation
+chr9:72352455_A>G,Cell type-specific
+chr9:101173548_T>C,Cell type-specific
+chr9:107246432_T>C,Cell type-specific
+chr9:107267483_T>C,Cell type-specific
+chr9:107810549_T>C,Cell type-specific
+chr9:108336312_A>G,Pre-gastrulation
+chr9:121774002_A>G,Cell type-specific
+chrX:13072789_A>G,Cell type-specific
+chrX:74206273_T>C,Cell type-specific
+chrX:94090713_T>C,Cell type-specific
+chrX:152909846_A>T,Pre-gastrulation
+chrX:155279130_A>G,Cell type-specific
+chr10:43605520_A>G,Tissue-specific
+chr5:88783005_A>G,Tissue-specific
+chr18:31691246_C>T,Cell type-specific
+chr2:166069158_T>C,Pre-gastrulation
+chr3:95886986_T>C,Tissue-specific
+chr3:95887048_T>C,Post-gastrulation
+chr7:28363106_G>A,Cell type-specific
+chr8:40993346_A>T,Pre-gastrulation
+chr8:70475092_T>C,Post-gastrulation
+chr3:96077571_G>A,Post-gastrulation
+chr4:117030410_T>A,Cell type-specific
+chr8:4292186_T>C,Post-gastrulation
+chr11:102523273_C>G,Cell type-specific
+chr14:75230502_A>G,Post-gastrulation
+chr17:71461142_T>C,Cell type-specific
+chr5:32149620_T>C,Cell type-specific
+chr6:128968038_T>A,Cell type-specific
+chrX:12616481_C>T,Pre-gastrulation
+chr1:9729272_A>G,Cell type-specific
+chr1:52472737_A>G,Cell type-specific
+chr1:59825883_A>G,Cell type-specific
+chr1:59843840_A>G,Pre-gastrulation
+chr1:59860530_A>G,Tissue-specific
+chr1:63114751_T>C,Cell type-specific
+chr1:86562055_T>C,Cell type-specific
+chr1:170883910_T>C,Pre-gastrulation
+chr1:172518528_A>G,Cell type-specific
+chr10:9079386_T>C,Cell type-specific
+chr10:42769617_A>G,Tissue-specific
+chr10:56403519_A>G,Tissue-specific
+chr10:58399984_A>G,Tissue-specific
+chr10:61108856_T>C,Tissue-specific
+chr10:67077837_T>C,Cell type-specific
+chr10:77312224_G>A,Cell type-specific
+chr10:80286419_A>G,Post-gastrulation
+chr10:85181671_T>C,Tissue-specific
+chr11:3399513_A>G,Cell type-specific
+chr11:3399525_A>G,Cell type-specific
+chr11:20225186_A>G,Post-gastrulation
+chr11:23367099_A>G,Cell type-specific
+chr11:32390319_T>A,Tissue-specific
+chr11:33160254_T>C,Cell type-specific
+chr11:59810514_T>A,Cell type-specific
+chr11:60790929_A>G,Cell type-specific
+chr11:62557502_A>G,Cell type-specific
+chr11:74696839_T>C,Cell type-specific
+chr11:74696846_T>C,Pre-gastrulation
+chr11:74696854_T>C,Pre-gastrulation
+chr11:76281670_T>C,Cell type-specific
+chr11:77700630_T>C,Cell type-specific
+chr11:78983733_C>A,Tissue-specific
+chr11:86991960_T>C,Pre-gastrulation
+chr11:88933045_T>C,Tissue-specific
+chr11:94104640_T>C,Cell type-specific
+chr11:98178724_T>C,Cell type-specific
+chr11:100324525_A>G,Cell type-specific
+chr11:105226477_A>G,Tissue-specific
+chr11:106127191_A>G,Cell type-specific
+chr11:106130771_A>G,Cell type-specific
+chr11:106718482_T>C,Cell type-specific
+chr11:116177790_T>C,Post-gastrulation
+chr11:116177798_T>C,Tissue-specific
+chr11:116192999_T>C,Post-gastrulation
+chr11:116193132_T>C,Cell type-specific
+chr11:117665819_A>G,Cell type-specific
+chr11:120340561_A>G,Tissue-specific
+chr12:3277829_T>C,Cell type-specific
+chr12:3993513_C>A,Cell type-specific
+chr12:8483538_A>G,Cell type-specific
+chr12:70994094_T>C,Post-gastrulation
+chr12:75900945_A>G,Tissue-specific
+chr12:75900985_A>G,Tissue-specific
+chr12:80425699_T>C,Tissue-specific
+chr12:80871340_A>G,Cell type-specific
+chr12:95718593_A>G,Cell type-specific
+chr13:54506027_A>G,Tissue-specific
+chr13:64306786_T>C,Tissue-specific
+chr13:74330669_T>C,Cell type-specific
+chr13:91484199_A>G,Tissue-specific
+chr13:99452346_A>G,Cell type-specific
+chr13:107009196_C>T,Cell type-specific
+chr14:20455082_G>A,Cell type-specific
+chr14:20455114_A>T,Post-gastrulation
+chr14:20465539_T>C,Tissue-specific
+chr14:27351999_T>A,Cell type-specific
+chr14:31801616_T>C,Pre-gastrulation
+chr14:56776676_T>C,Pre-gastrulation
+chr14:57627044_T>C,Cell type-specific
+chr14:78644979_T>C,Cell type-specific
+chr14:79539515_A>G,Cell type-specific
+chr14:81656742_A>G,Post-gastrulation
+chr14:81656761_T>A,Post-gastrulation
+chr15:31314399_T>C,Post-gastrulation
+chr15:64095017_C>T,Cell type-specific
+chr15:73514787_A>G,Post-gastrulation
+chr15:73514798_A>G,Tissue-specific
+chr15:76224365_C>G,Cell type-specific
+chr15:77835491_T>C,Pre-gastrulation
+chr15:77836743_T>C,Post-gastrulation
+chr15:80906966_A>G,Tissue-specific
+chr15:82876528_T>C,Pre-gastrulation
+chr15:89513513_A>G,Post-gastrulation
+chr15:89513533_A>G,Post-gastrulation
+chr15:89513539_A>G,Post-gastrulation
+chr15:89542742_A>T,Cell type-specific
+chr15:98924604_T>C,Cell type-specific
+chr15:99128511_A>G,Cell type-specific
+chr15:100064483_A>G,Cell type-specific
+chr15:100064509_A>G,Cell type-specific
+chr16:18829604_T>C,Cell type-specific
+chr16:33000337_A>G,Pre-gastrulation
+chr16:77028700_T>C,Cell type-specific
+chr17:5161129_A>G,Tissue-specific
+chr17:12767536_A>G,Post-gastrulation
+chr17:28065043_A>G,Cell type-specific
+chr17:28267359_A>G,Cell type-specific
+chr17:29468450_T>C,Cell type-specific
+chr17:33928733_A>G,Cell type-specific
+chr17:35855710_T>C,Cell type-specific
+chr17:47552582_A>G,Tissue-specific
+chr17:47552629_A>G,Pre-gastrulation
+chr18:35117971_G>A,Cell type-specific
+chr18:35127763_A>G,Post-gastrulation
+chr18:35610148_A>G,Tissue-specific
+chr18:38583796_T>C,Pre-gastrulation
+chr18:60678752_G>A,Cell type-specific
+chr18:67418410_A>G,Cell type-specific
+chr18:67701898_T>C,Cell type-specific
+chr19:16706813_A>G,Cell type-specific
+chr19:40742506_A>G,Post-gastrulation
+chr19:41936572_G>A,Cell type-specific
+chr2:18248887_C>T,Cell type-specific
+chr2:23072297_A>G,Pre-gastrulation
+chr2:23072303_A>G,Cell type-specific
+chr2:23072340_A>G,Post-gastrulation
+chr2:29709555_A>G,Tissue-specific
+chr2:29714008_A>G,Tissue-specific
+chr2:30979598_T>C,Post-gastrulation
+chr2:38862773_T>C,Post-gastrulation
+chr2:91862008_A>G,Cell type-specific
+chr2:126677849_A>G,Pre-gastrulation
+chr2:126677891_A>G,Pre-gastrulation
+chr2:126862913_T>C,Cell type-specific
+chr2:152354481_T>C,Post-gastrulation
+chr2:152743953_A>G,Cell type-specific
+chr2:154679775_A>G,Tissue-specific
+chr2:154684432_A>G,Tissue-specific
+chr2:156731423_G>A,Cell type-specific
+chr2:163634833_T>A,Pre-gastrulation
+chr2:166016087_A>G,Cell type-specific
+chr2:181399840_T>C,Cell type-specific
+chr3:88165607_G>A,Cell type-specific
+chr3:88431096_T>C,Tissue-specific
+chr3:88475906_T>C,Cell type-specific
+chr3:90113074_A>G,Cell type-specific
+chr3:90121284_A>G,Cell type-specific
+chr3:90168740_C>G,Cell type-specific
+chr3:95671291_A>G,Cell type-specific
+chr3:95887009_T>C,Post-gastrulation
+chr3:95887041_T>C,Post-gastrulation
+chr3:122023363_A>G,Post-gastrulation
+chr4:3793261_A>G,Post-gastrulation
+chr4:3793292_A>G,Post-gastrulation
+chr4:3793333_T>C,Tissue-specific
+chr4:3793342_A>G,Post-gastrulation
+chr4:3793380_A>G,Post-gastrulation
+chr4:3793396_A>G,Post-gastrulation
+chr4:40832974_T>C,Cell type-specific
+chr4:41033177_T>C,Post-gastrulation
+chr4:41260139_A>G,Cell type-specific
+chr4:57814131_A>G,Cell type-specific
+chr4:57815307_A>G,Cell type-specific
+chr4:123286262_G>A,Cell type-specific
+chr4:129830861_A>G,Pre-gastrulation
+chr4:129830881_A>G,Cell type-specific
+chr4:129830887_A>G,Cell type-specific
+chr4:131892659_A>G,Cell type-specific
+chr4:133152078_A>G,Post-gastrulation
+chr4:133157802_A>G,Post-gastrulation
+chr4:136490077_A>G,Pre-gastrulation
+chr4:136576010_A>G,Cell type-specific
+chr4:137997733_A>G,Cell type-specific
+chr4:137997747_A>G,Cell type-specific
+chr4:145210385_T>C,Cell type-specific
+chr4:149195029_A>G,Cell type-specific
+chr4:149423847_T>C,Cell type-specific
+chr4:150478464_A>G,Post-gastrulation
+chr4:155763429_T>C,Cell type-specific
+chr5:23461473_A>G,Cell type-specific
+chr5:23523138_T>C,Cell type-specific
+chr5:31927894_A>G,Cell type-specific
+chr5:63966418_T>C,Tissue-specific
+chr5:65481523_T>C,Pre-gastrulation
+chr5:66802596_T>G,Cell type-specific
+chr5:75648919_C>T,Tissue-specific
+chr5:77368287_G>T,Cell type-specific
+chr5:77376471_C>T,Tissue-specific
+chr5:103626391_C>A,Cell type-specific
+chr5:115537309_A>G,Cell type-specific
+chr5:135919130_T>A,Cell type-specific
+chr5:138976182_A>G,Cell type-specific
+chr5:139341281_T>C,Pre-gastrulation
+chr5:147650021_T>C,Post-gastrulation
+chr5:147889440_T>C,Tissue-specific
+chr6:35090580_G>A,Cell type-specific
+chr6:38454431_A>G,Pre-gastrulation
+chr6:71403309_T>C,Cell type-specific
+chr6:91755213_A>G,Post-gastrulation
+chr6:99294046_T>C,Cell type-specific
+chr6:99523618_A>C,Cell type-specific
+chr6:115630065_T>C,Post-gastrulation
+chr6:115847276_T>C,Tissue-specific
+chr6:120702782_A>G,Pre-gastrulation
+chr6:120800627_T>C,Tissue-specific
+chr6:149056638_T>C,Cell type-specific
+chr7:19027295_C>T,Cell type-specific
+chr7:19805137_A>G,Cell type-specific
+chr7:25463674_C>T,Post-gastrulation
+chr7:28379904_T>C,Cell type-specific
+chr7:74405537_T>C,Cell type-specific
+chr7:80707274_T>C,Cell type-specific
+chr7:130492459_T>C,Cell type-specific
+chr7:138854744_A>G,Cell type-specific
+chr8:23176319_T>C,Post-gastrulation
+chr8:25239095_T>C,Cell type-specific
+chr8:33794517_C>G,Tissue-specific
+chr8:47960637_T>C,Cell type-specific
+chr8:86869524_T>C,Tissue-specific
+chr8:90937948_A>G,Tissue-specific
+chr8:107359814_A>G,Cell type-specific
+chr8:111542874_A>G,Cell type-specific
+chr8:111563129_G>A,Cell type-specific
+chr8:111619749_A>G,Cell type-specific
+chr8:111719555_T>C,Cell type-specific
+chr8:111719565_T>C,Pre-gastrulation
+chr9:13526763_A>G,Tissue-specific
+chr9:70439928_T>C,Pre-gastrulation
+chr9:78471147_T>C,Post-gastrulation
+chr9:88462010_T>C,Cell type-specific
+chr9:102614733_T>C,Tissue-specific
+chr9:102614759_T>C,Pre-gastrulation
+chr9:108611110_T>C,Post-gastrulation
+chrX:142852313_A>T,Cell type-specific
+chrX:151925383_T>C,Tissue-specific
+chr10:128491764_G>A,Cell type-specific
+chr8:128504172_A>G,Cell type-specific
+chr14:56919949_T>C,Pre-gastrulation
+chr17:39848243_C>T,Tissue-specific
+chr17:39848255_G>A,Tissue-specific
+chr4:148068073_A>G,Tissue-specific
+chr9:118675017_G>C,Post-gastrulation
+chr11:85038173_T>C,Post-gastrulation
+chr13:49544816_C>T,Cell type-specific
+chr5:34575655_A>G,Pre-gastrulation
+chr7:141157943_A>G,Cell type-specific
+chr10:95308830_T>C,Post-gastrulation
+chr11:23347097_A>G,Pre-gastrulation
+chr11:85038163_T>C,Pre-gastrulation
+chr13:63292362_A>G,Pre-gastrulation
+chr13:107885254_A>G,Tissue-specific
+chr14:47186779_A>T,Cell type-specific
+chr16:4730557_A>G,Post-gastrulation
+chr17:64604378_T>C,Tissue-specific
+chr18:35672784_T>C,Cell type-specific
+chr2:163641632_T>C,Post-gastrulation
+chr2:164066005_T>C,Post-gastrulation
+chr4:42992668_T>C,Post-gastrulation
+chr4:116226435_A>G,Tissue-specific
+chr4:136481401_A>G,Post-gastrulation
+chr4:136481425_A>G,Pre-gastrulation
+chr5:65542281_A>G,Cell type-specific
+chr5:142870054_T>C,Cell type-specific
+chr7:127969060_A>G,Pre-gastrulation
+chr7:141466493_A>G,Cell type-specific
+chr8:70475076_T>C,Post-gastrulation
+chr8:71401307_A>G,Cell type-specific
+chr8:72550878_A>G,Post-gastrulation
+chr8:84213011_A>G,Cell type-specific
+chr9:109979400_A>G,Cell type-specific
+chr17:70974186_G>A,Tissue-specific
+chr2:130872646_T>C,Tissue-specific
+chr13:101759539_C>T,Cell type-specific
+chr17:5161224_A>G,Cell type-specific
+chr4:11158870_A>G,Cell type-specific
+chr5:92878224_A>G,Post-gastrulation
+chr8:25239196_T>C,Post-gastrulation
+chr8:25239285_T>C,Cell type-specific
+chr8:123152192_T>C,Cell type-specific
+chr8:123152211_T>C,Post-gastrulation
+chr11:59199562_T>C,Post-gastrulation
+chr17:10216516_A>G,Pre-gastrulation
+chr2:48974709_T>C,Cell type-specific
+chr2:166047296_C>T,Cell type-specific
+chr5:144160117_T>C,Cell type-specific
+chr6:120610780_A>G,Cell type-specific
+chr1:64528070_A>G,Post-gastrulation
+chr10:81136924_T>G,Tissue-specific
+chr10:93482249_G>A,Tissue-specific
+chr11:21316279_T>C,Cell type-specific
+chr12:4956839_A>G,Cell type-specific
+chr16:64823848_A>G,Cell type-specific
+chr18:56921198_A>G,Cell type-specific
+chr19:5802672_G>C,Pre-gastrulation
+chr2:43829510_A>G,Post-gastrulation
+chr2:119609836_T>C,Tissue-specific
+chr2:151720301_A>G,Cell type-specific
+chr2:163635040_C>T,Post-gastrulation
+chr6:39202768_T>C,Cell type-specific
+chr7:25293938_A>G,Post-gastrulation
+chr7:28790036_G>A,Cell type-specific
+chr7:101411568_A>G,Post-gastrulation
+chr8:84836265_T>C,Cell type-specific
+chr9:72062240_T>A,Cell type-specific
+chr9:73093202_A>G,Tissue-specific
+chr9:114592229_T>C,Cell type-specific
+chr11:58189199_T>C,Cell type-specific
+chr2:73909284_C>T,Tissue-specific
+chr5:108071370_A>G,Pre-gastrulation
+chr6:39202784_T>C,Cell type-specific
+chr1:55147875_A>G,Cell type-specific
+chr1:59769588_A>G,Pre-gastrulation
+chr1:59843725_A>G,Cell type-specific
+chr1:63117596_A>G,Pre-gastrulation
+chr1:63134176_A>G,Cell type-specific
+chr1:82849623_A>G,Pre-gastrulation
+chr1:86841362_A>G,Cell type-specific
+chr1:88148224_A>G,Cell type-specific
+chr1:88259220_G>A,Pre-gastrulation
+chr1:118397038_A>G,Pre-gastrulation
+chr1:162841070_A>G,Cell type-specific
+chr10:58503692_A>G,Cell type-specific
+chr10:62474940_T>C,Cell type-specific
+chr10:119549522_A>G,Cell type-specific
+chr10:127278335_T>A,Cell type-specific
+chr10:127904104_A>G,Cell type-specific
+chr10:127904502_A>G,Cell type-specific
+chr10:128098943_A>G,Pre-gastrulation
+chr10:128727942_T>C,Pre-gastrulation
+chr11:5075688_T>C,Pre-gastrulation
+chr11:20076835_T>C,Cell type-specific
+chr11:20076851_T>C,Cell type-specific
+chr11:23266379_A>G,Cell type-specific
+chr11:23557701_A>G,Cell type-specific
+chr11:23743954_T>C,Cell type-specific
+chr11:49208601_A>G,Cell type-specific
+chr11:75593570_A>G,Pre-gastrulation
+chr11:76276235_A>G,Cell type-specific
+chr11:76346196_T>C,Pre-gastrulation
+chr11:77703201_A>G,Cell type-specific
+chr11:80009141_G>A,Pre-gastrulation
+chr11:82865872_T>C,Pre-gastrulation
+chr11:83354424_A>G,Cell type-specific
+chr11:85236056_A>G,Cell type-specific
+chr11:87062866_T>C,Cell type-specific
+chr11:88933035_T>C,Cell type-specific
+chr11:93960295_T>C,Cell type-specific
+chr11:94022684_A>G,Cell type-specific
+chr11:97219286_T>C,Cell type-specific
+chr11:98860400_A>G,Cell type-specific
+chr11:99064768_T>C,Cell type-specific
+chr11:101446700_A>T,Cell type-specific
+chr11:104340806_T>C,Cell type-specific
+chr11:106718471_T>C,Pre-gastrulation
+chr11:115825781_A>G,Cell type-specific
+chr11:115825805_A>G,Cell type-specific
+chr11:116192786_T>C,Cell type-specific
+chr11:119974512_A>G,Cell type-specific
+chr11:120559263_T>C,Cell type-specific
+chr12:4985074_A>G,Pre-gastrulation
+chr12:17286133_G>A,Cell type-specific
+chr12:51620449_C>T,Pre-gastrulation
+chr12:57475762_A>G,Cell type-specific
+chr12:59052985_T>C,Pre-gastrulation
+chr12:73587762_G>T,Cell type-specific
+chr12:85357878_T>C,Cell type-specific
+chr12:87311593_T>C,Cell type-specific
+chr12:87311627_T>C,Pre-gastrulation
+chr12:87311640_T>C,Cell type-specific
+chr12:87376373_T>C,Cell type-specific
+chr12:102875144_T>C,Cell type-specific
+chr12:110957739_T>C,Cell type-specific
+chr12:111865442_T>C,Cell type-specific
+chr13:55558846_T>C,Pre-gastrulation
+chr13:55627901_A>G,Cell type-specific
+chr13:63414611_T>C,Cell type-specific
+chr13:74724641_T>C,Cell type-specific
+chr13:100642571_T>C,Cell type-specific
+chr13:102846376_T>C,Cell type-specific
+chr13:104050269_T>C,Cell type-specific
+chr14:25859119_A>G,Cell type-specific
+chr14:44365946_G>A,Pre-gastrulation
+chr14:52062364_A>G,Cell type-specific
+chr15:34616579_T>C,Cell type-specific
+chr15:38493552_A>G,Cell type-specific
+chr15:79073693_T>A,Cell type-specific
+chr15:82162646_A>G,Cell type-specific
+chr15:82873521_T>C,Cell type-specific
+chr15:86164339_T>C,Pre-gastrulation
+chr15:86164359_T>C,Cell type-specific
+chr15:89430565_A>G,Cell type-specific
+chr15:98906784_T>C,Cell type-specific
+chr15:100064580_A>G,Cell type-specific
+chr16:4827459_T>C,Cell type-specific
+chr16:5081048_T>C,Cell type-specific
+chr16:14371330_T>C,Cell type-specific
+chr16:22205580_T>C,Cell type-specific
+chr16:22215495_T>C,Cell type-specific
+chr16:31268724_T>C,Cell type-specific
+chr16:32903862_A>G,Cell type-specific
+chr16:32903877_A>G,Cell type-specific
+chr16:59544909_T>C,Cell type-specific
+chr16:89823502_C>T,Cell type-specific
+chr17:27548394_G>C,Cell type-specific
+chr17:33923645_T>C,Cell type-specific
+chr17:33949581_C>T,Cell type-specific
+chr17:34949582_T>C,Cell type-specific
+chr17:35842312_A>G,Pre-gastrulation
+chr17:53529874_A>G,Cell type-specific
+chr17:56267009_A>G,Cell type-specific
+chr17:65917893_G>C,Cell type-specific
+chr17:73902291_A>T,Pre-gastrulation
+chr18:34911845_T>C,Pre-gastrulation
+chr19:7184478_T>C,Cell type-specific
+chr19:7477437_T>C,Pre-gastrulation
+chr19:10587409_A>G,Pre-gastrulation
+chr19:16157667_A>G,Pre-gastrulation
+chr19:20423295_T>C,Cell type-specific
+chr19:36997248_A>G,Pre-gastrulation
+chr19:42112724_A>G,Cell type-specific
+chr19:57193956_T>C,Pre-gastrulation
+chr2:16393364_A>G,Cell type-specific
+chr2:18079295_A>G,Pre-gastrulation
+chr2:24916257_T>C,Cell type-specific
+chr2:29776325_T>C,Cell type-specific
+chr2:30460408_A>G,Cell type-specific
+chr2:31140070_T>C,Cell type-specific
+chr2:69877914_T>C,Cell type-specific
+chr2:91863097_A>G,Cell type-specific
+chr2:104473069_T>C,Cell type-specific
+chr2:104638329_A>G,Cell type-specific
+chr2:104858463_T>C,Pre-gastrulation
+chr2:120306323_T>C,Cell type-specific
+chr2:129797568_T>C,Cell type-specific
+chr2:153359378_A>G,Cell type-specific
+chr2:154684455_A>G,Cell type-specific
+chr2:155217010_T>C,Cell type-specific
+chr2:156160056_T>C,Cell type-specific
+chr2:163641643_T>C,Pre-gastrulation
+chr2:172471118_A>G,Cell type-specific
+chr2:181190131_C>A,Cell type-specific
+chr3:62478976_T>G,Pre-gastrulation
+chr3:85783593_T>C,Cell type-specific
+chr3:89473841_A>G,Cell type-specific
+chr3:97934585_A>G,Cell type-specific
+chr3:98134214_A>T,Pre-gastrulation
+chr3:103147954_A>G,Cell type-specific
+chr3:129550075_C>T,Pre-gastrulation
+chr3:135408124_A>T,Pre-gastrulation
+chr3:136686346_G>C,Post-gastrulation
+chr3:152416153_A>G,Cell type-specific
+chr4:40749887_A>G,Cell type-specific
+chr4:40775397_A>C,Cell type-specific
+chr4:41363371_A>G,Cell type-specific
+chr4:53533162_A>G,Cell type-specific
+chr4:70525079_T>C,Cell type-specific
+chr4:100351232_A>G,Cell type-specific
+chr4:109680682_A>G,Cell type-specific
+chr4:116624903_G>A,Cell type-specific
+chr4:133161746_A>G,Cell type-specific
+chr4:133161758_A>G,Cell type-specific
+chr4:133383115_A>G,Pre-gastrulation
+chr4:134095612_A>G,Cell type-specific
+chr4:134842540_T>C,Pre-gastrulation
+chr4:135304731_T>C,Pre-gastrulation
+chr4:136490069_A>G,Pre-gastrulation
+chr4:150293514_A>G,Cell type-specific
+chr4:151038566_T>C,Cell type-specific
+chr5:5501110_C>T,Cell type-specific
+chr5:9160758_A>T,Post-gastrulation
+chr5:24562334_T>C,Cell type-specific
+chr5:32475825_A>G,Cell type-specific
+chr5:32780251_A>G,Pre-gastrulation
+chr5:33118289_A>G,Cell type-specific
+chr5:33118327_A>G,Cell type-specific
+chr5:34156939_T>C,Cell type-specific
+chr5:65625267_T>C,Cell type-specific
+chr5:72661158_A>G,Cell type-specific
+chr5:72922376_T>C,Cell type-specific
+chr5:73059123_A>G,Cell type-specific
+chr5:73073583_T>C,Cell type-specific
+chr5:88653852_A>G,Cell type-specific
+chr5:92027023_T>C,Cell type-specific
+chr5:103714641_A>G,Pre-gastrulation
+chr5:114806155_C>T,Cell type-specific
+chr5:116402972_A>G,Cell type-specific
+chr5:118103145_T>C,Pre-gastrulation
+chr5:121484100_A>G,Cell type-specific
+chr5:123091829_A>G,Cell type-specific
+chr5:125550263_A>G,Pre-gastrulation
+chr5:125550276_A>G,Cell type-specific
+chr5:134631469_A>G,Cell type-specific
+chr5:134935068_A>G,Cell type-specific
+chr5:144004552_T>A,Pre-gastrulation
+chr5:144124265_A>G,Cell type-specific
+chr5:144124272_A>G,Cell type-specific
+chr5:148382096_T>C,Cell type-specific
+chr6:15755989_G>T,Pre-gastrulation
+chr6:30242939_T>C,Pre-gastrulation
+chr6:30242952_T>C,Cell type-specific
+chr6:38783420_T>C,Pre-gastrulation
+chr6:39636654_A>G,Pre-gastrulation
+chr6:47897060_A>G,Cell type-specific
+chr6:67325444_A>G,Cell type-specific
+chr6:72654658_T>C,Cell type-specific
+chr6:72654666_T>C,Cell type-specific
+chr6:87157539_T>C,Cell type-specific
+chr6:99096743_T>A,Pre-gastrulation
+chr6:120214274_T>C,Cell type-specific
+chr6:128348624_T>C,Cell type-specific
+chr6:134743177_T>G,Cell type-specific
+chr6:140529703_A>G,Pre-gastrulation
+chr6:146984307_A>G,Cell type-specific
+chr7:19706364_G>A,Cell type-specific
+chr7:24926302_T>A,Pre-gastrulation
+chr7:27463083_A>G,Cell type-specific
+chr7:29250497_T>C,Cell type-specific
+chr7:67338344_A>G,Cell type-specific
+chr7:92716558_T>C,Cell type-specific
+chr7:100718067_A>G,Pre-gastrulation
+chr7:102271468_A>G,Cell type-specific
+chr7:111057002_T>C,Cell type-specific
+chr7:118240858_T>C,Pre-gastrulation
+chr7:132923403_T>C,Cell type-specific
+chr7:141590119_A>G,Cell type-specific
+chr8:32477152_G>C,Pre-gastrulation
+chr8:61234180_A>G,Cell type-specific
+chr8:72585209_A>G,Cell type-specific
+chr8:80845017_A>T,Cell type-specific
+chr8:88165732_T>C,Cell type-specific
+chr8:105553551_T>C,Pre-gastrulation
+chr8:106125928_T>C,Cell type-specific
+chr8:107170581_A>G,Cell type-specific
+chr8:107417470_T>C,Cell type-specific
+chr8:107543552_A>G,Cell type-specific
+chr8:114464044_T>C,Cell type-specific
+chr8:118708833_T>G,Cell type-specific
+chr8:120128929_A>G,Pre-gastrulation
+chr8:120541122_A>G,Pre-gastrulation
+chr9:65742244_T>C,Cell type-specific
+chr9:65742254_T>C,Cell type-specific
+chr9:83941932_A>G,Cell type-specific
+chr9:86516191_A>G,Cell type-specific
+chr9:87243965_T>C,Cell type-specific
+chr9:108009894_A>G,Cell type-specific
+chr9:108132773_A>G,Cell type-specific
+chr9:108313689_A>G,Cell type-specific
+chr9:108684573_T>C,Cell type-specific
+chr9:123205341_T>C,Cell type-specific
+chrX:6422679_G>C,Cell type-specific
+chrX:74423277_T>C,Cell type-specific
+chrX:74423524_T>C,Cell type-specific
+chrX:103606127_T>C,Cell type-specific
+chrX:152251873_A>G,Pre-gastrulation
+chrX:155211598_G>A,Cell type-specific
+chr10:13443654_T>C,Cell type-specific
+chr1:58415537_C>T,Cell type-specific
+chr3:90088384_G>A,Cell type-specific
+chr3:153595823_T>C,Post-gastrulation
+chr4:3793319_A>G,Post-gastrulation
+chr4:3793326_A>G,Post-gastrulation
+chr4:45100292_C>G,Tissue-specific
+chr6:55241373_A>T,Pre-gastrulation
+chr6:55348223_A>G,Post-gastrulation
+chr7:141171169_T>C,Post-gastrulation
+chr8:25239167_T>C,Pre-gastrulation
+chr8:72318728_A>G,Cell type-specific
+chr1:82634873_C>T,Cell type-specific
+chr1:151345769_T>C,Cell type-specific
+chr11:9389394_G>A,Cell type-specific
+chr2:168088251_T>G,Cell type-specific
+chr5:66097380_G>T,Cell type-specific
+chr6:83759472_A>G,Cell type-specific
+chr9:25101237_A>T,Post-gastrulation
+chr1:171254538_C>T,Cell type-specific
+chr12:84971746_A>G,Post-gastrulation
+chr16:57601769_A>G,Cell type-specific
+chr7:34225023_T>C,Post-gastrulation
+chrX:74215264_G>A,Cell type-specific
+chr1:93441521_A>G,Cell type-specific
+chr11:83905624_T>G,Cell type-specific
+chr11:113117219_A>G,Cell type-specific
+chr12:4249725_G>A,Cell type-specific
+chr14:70672157_A>T,Cell type-specific
+chr14:75783278_T>A,Cell type-specific
+chr2:24466730_G>A,Cell type-specific
+chr2:84433032_G>A,Cell type-specific
+chr2:121490762_T>C,Cell type-specific
+chr2:152744055_G>T,Post-gastrulation
+chr4:135835152_G>A,Tissue-specific
+chr6:90578816_T>G,Cell type-specific
+chr7:16495266_C>T,Post-gastrulation
+chr9:108255518_T>C,Cell type-specific
+chrX:6640897_G>A,Cell type-specific
+chrX:94416869_C>T,Post-gastrulation
+chr10:62644429_T>C,Post-gastrulation
+chr12:102866805_A>T,Cell type-specific
+chr18:31796444_T>C,Tissue-specific
+chr11:5073680_C>T,Cell type-specific
+chr11:85038004_A>G,Cell type-specific
+chr11:97496118_A>G,Tissue-specific
+chr12:17791678_C>T,Pre-gastrulation
+chr15:79416318_A>T,Tissue-specific
+chr16:85172893_A>C,Cell type-specific
+chr16:89201784_C>G,Tissue-specific
+chr18:60848233_T>C,Pre-gastrulation
+chr2:28506254_A>G,Cell type-specific
+chr3:103889053_C>T,Cell type-specific
+chr6:116652302_T>C,Tissue-specific
+chr6:116652308_A>T,Tissue-specific
+chr7:80757234_A>G,Cell type-specific
+chr8:70475247_G>T,Cell type-specific
+chr9:79599101_G>A,Post-gastrulation
+chrX:9435726_G>A,Post-gastrulation
+chr18:60812558_A>C,Cell type-specific
+chr14:74909844_A>G,Tissue-specific
+chr1:5139522_T>C,Tissue-specific
+chr1:6274240_A>G,Cell type-specific
+chr1:36528729_A>G,Cell type-specific
+chr1:45857356_A>T,Cell type-specific
+chr1:63134117_A>G,Cell type-specific
+chr1:75370949_A>G,Cell type-specific
+chr1:86347967_T>C,Post-gastrulation
+chr1:89907618_A>G,Cell type-specific
+chr1:92060772_A>G,Cell type-specific
+chr1:157416646_T>C,Tissue-specific
+chr1:159311957_A>G,Pre-gastrulation
+chr1:160960946_A>G,Cell type-specific
+chr1:162584872_A>G,Cell type-specific
+chr1:162584879_A>G,Tissue-specific
+chr1:162720812_A>G,Cell type-specific
+chr1:170826333_T>C,Cell type-specific
+chr1:179263844_T>C,Cell type-specific
+chr1:181141790_T>C,Cell type-specific
+chr10:7208254_T>C,Post-gastrulation
+chr10:12825474_T>C,Tissue-specific
+chr10:12850724_T>C,Cell type-specific
+chr10:27080577_T>C,Cell type-specific
+chr10:42769581_A>G,Cell type-specific
+chr10:59463766_T>C,Cell type-specific
+chr10:59463773_T>C,Post-gastrulation
+chr10:59463779_T>C,Post-gastrulation
+chr10:59463785_T>C,Pre-gastrulation
+chr10:62618483_T>C,Cell type-specific
+chr10:77153037_C>T,Cell type-specific
+chr10:89786038_C>T,Post-gastrulation
+chr10:93647598_A>G,Cell type-specific
+chr10:115298027_T>C,Pre-gastrulation
+chr10:121539289_T>C,Cell type-specific
+chr11:20031393_A>G,Cell type-specific
+chr11:20554288_A>G,Cell type-specific
+chr11:58019019_A>G,Cell type-specific
+chr11:58179445_T>A,Cell type-specific
+chr11:77245400_A>G,Cell type-specific
+chr11:78097415_A>G,Post-gastrulation
+chr11:80444967_A>G,Cell type-specific
+chr11:86688087_T>C,Cell type-specific
+chr11:94278241_T>C,Cell type-specific
+chr11:94950355_G>C,Cell type-specific
+chr11:97962175_C>T,Cell type-specific
+chr11:100932079_A>G,Cell type-specific
+chr11:103223038_T>C,Cell type-specific
+chr11:106088742_A>G,Tissue-specific
+chr11:114679045_A>G,Tissue-specific
+chr11:121001858_T>A,Cell type-specific
+chr12:8934381_G>A,Tissue-specific
+chr12:32837534_A>G,Cell type-specific
+chr12:55321405_C>T,Post-gastrulation
+chr12:105801756_A>G,Cell type-specific
+chr12:110680174_T>C,Post-gastrulation
+chr12:111043074_A>G,Pre-gastrulation
+chr12:111549085_C>A,Cell type-specific
+chr12:118292912_T>C,Pre-gastrulation
+chr13:52637185_A>G,Post-gastrulation
+chr13:54555499_T>C,Cell type-specific
+chr13:54563785_T>C,Cell type-specific
+chr13:55065110_T>C,Cell type-specific
+chr13:55065123_T>C,Post-gastrulation
+chr13:55185451_A>G,Cell type-specific
+chr13:56082792_T>C,Cell type-specific
+chr13:114067982_T>C,Cell type-specific
+chr14:20349862_A>G,Post-gastrulation
+chr14:47019856_A>G,Cell type-specific
+chr14:52089697_T>C,Cell type-specific
+chr15:27989093_T>C,Cell type-specific
+chr15:46369520_A>G,Post-gastrulation
+chr15:83247745_T>C,Cell type-specific
+chr15:89213099_A>G,Cell type-specific
+chr15:99792893_C>T,Cell type-specific
+chr15:100048528_A>G,Cell type-specific
+chr15:100232635_A>G,Cell type-specific
+chr16:17764016_A>G,Pre-gastrulation
+chr16:32903886_A>G,Pre-gastrulation
+chr16:55993934_A>G,Cell type-specific
+chr17:12219374_T>A,Post-gastrulation
+chr17:12767551_A>G,Cell type-specific
+chr17:30395642_G>T,Cell type-specific
+chr17:56891051_T>C,Pre-gastrulation
+chr17:64062136_A>G,Post-gastrulation
+chr18:5624401_T>A,Cell type-specific
+chr18:13971280_A>C,Tissue-specific
+chr18:35853867_A>G,Cell type-specific
+chr18:38842817_T>C,Cell type-specific
+chr18:53188271_A>G,Cell type-specific
+chr18:59302361_A>G,Cell type-specific
+chr18:68286049_A>G,Cell type-specific
+chr18:69693073_G>A,Cell type-specific
+chr19:5231013_T>C,Cell type-specific
+chr19:7364602_T>C,Cell type-specific
+chr2:10038008_T>C,Cell type-specific
+chr2:13582472_G>C,Post-gastrulation
+chr2:26625114_T>C,Cell type-specific
+chr2:26957343_G>A,Cell type-specific
+chr2:31051015_T>C,Post-gastrulation
+chr2:31214351_G>C,Cell type-specific
+chr2:37670767_T>C,Cell type-specific
+chr2:71885471_A>G,Cell type-specific
+chr2:75634991_C>T,Post-gastrulation
+chr2:76386252_A>G,Tissue-specific
+chr2:76386258_G>T,Tissue-specific
+chr2:104638379_A>G,Post-gastrulation
+chr2:104654627_T>C,Cell type-specific
+chr2:104667170_T>C,Cell type-specific
+chr2:119440103_G>A,Cell type-specific
+chr2:130425542_A>G,Cell type-specific
+chr2:154400914_T>C,Cell type-specific
+chr2:156201464_A>G,Pre-gastrulation
+chr2:167291427_A>G,Cell type-specific
+chr2:168674242_T>C,Cell type-specific
+chr2:168740016_T>C,Cell type-specific
+chr2:168740036_T>C,Tissue-specific
+chr3:88154771_A>G,Post-gastrulation
+chr3:95489129_G>A,Cell type-specific
+chr3:96812807_C>T,Cell type-specific
+chr3:115975649_T>C,Cell type-specific
+chr3:123310926_A>G,Cell type-specific
+chr3:135450102_A>G,Pre-gastrulation
+chr4:11489970_A>G,Cell type-specific
+chr4:40788793_T>C,Cell type-specific
+chr4:63960118_C>A,Post-gastrulation
+chr4:101222581_T>C,Cell type-specific
+chr4:102884021_A>G,Cell type-specific
+chr4:116616867_C>T,Cell type-specific
+chr4:123520271_A>C,Tissue-specific
+chr4:125104295_A>G,Pre-gastrulation
+chr4:126214326_T>C,Cell type-specific
+chr4:126223311_T>C,Cell type-specific
+chr4:126939827_T>C,Cell type-specific
+chr4:132854360_A>T,Post-gastrulation
+chr4:133083445_A>G,Cell type-specific
+chr4:136492154_A>G,Pre-gastrulation
+chr4:136580189_T>C,Cell type-specific
+chr4:150292200_A>G,Cell type-specific
+chr4:152082064_A>G,Cell type-specific
+chr4:155107166_T>C,Cell type-specific
+chr4:155107186_T>C,Cell type-specific
+chr4:155107194_T>C,Cell type-specific
+chr4:155622376_T>C,Cell type-specific
+chr5:23523157_A>G,Cell type-specific
+chr5:32624629_A>G,Pre-gastrulation
+chr5:32840548_T>C,Pre-gastrulation
+chr5:65481509_T>C,Post-gastrulation
+chr5:86051520_T>C,Cell type-specific
+chr5:89315997_C>T,Post-gastrulation
+chr5:102040333_A>G,Cell type-specific
+chr5:102798091_T>A,Cell type-specific
+chr5:105443910_A>G,Cell type-specific
+chr5:115103301_A>T,Cell type-specific
+chr5:120527926_A>G,Post-gastrulation
+chr5:123091818_A>G,Cell type-specific
+chr5:123112476_C>T,Cell type-specific
+chr5:123581417_T>C,Cell type-specific
+chr5:140433501_T>C,Tissue-specific
+chr5:142467275_A>G,Cell type-specific
+chr5:150645409_T>C,Pre-gastrulation
+chr6:35059820_T>C,Tissue-specific
+chr6:39514275_T>C,Cell type-specific
+chr6:52605625_T>C,Cell type-specific
+chr6:70856700_A>G,Cell type-specific
+chr6:86533252_A>G,Cell type-specific
+chr6:90705865_A>G,Tissue-specific
+chr6:91694521_C>T,Cell type-specific
+chr6:93261946_A>G,Cell type-specific
+chr6:93261980_A>G,Cell type-specific
+chr6:124933682_A>G,Cell type-specific
+chr6:140575176_A>G,Pre-gastrulation
+chr6:144738357_A>G,Cell type-specific
+chr7:4148078_T>A,Pre-gastrulation
+chr7:18861610_A>G,Post-gastrulation
+chr7:19284838_T>A,Tissue-specific
+chr7:19286119_T>C,Cell type-specific
+chr7:19708744_T>C,Tissue-specific
+chr7:24898511_A>G,Tissue-specific
+chr7:44921735_T>C,Cell type-specific
+chr7:74478288_C>T,Cell type-specific
+chr7:80055135_A>G,Post-gastrulation
+chr7:80749529_T>C,Cell type-specific
+chr7:102190295_T>C,Cell type-specific
+chr7:102439104_T>C,Cell type-specific
+chr7:109581858_T>C,Cell type-specific
+chr7:109581867_T>C,Cell type-specific
+chr7:127503448_A>G,Pre-gastrulation
+chr7:127508658_A>G,Post-gastrulation
+chr7:127692189_A>G,Cell type-specific
+chr7:127839586_A>G,Post-gastrulation
+chr7:139952756_A>G,Tissue-specific
+chr7:141171608_T>C,Cell type-specific
+chr8:25239125_T>C,Post-gastrulation
+chr8:25581072_A>G,Post-gastrulation
+chr8:25581296_A>G,Pre-gastrulation
+chr8:25581314_A>G,Tissue-specific
+chr8:47631612_A>T,Post-gastrulation
+chr8:75100591_C>A,Cell type-specific
+chr8:77404891_T>C,Cell type-specific
+chr8:77496820_T>C,Post-gastrulation
+chr8:84205326_T>C,Cell type-specific
+chr8:106924648_A>G,Cell type-specific
+chr8:106976345_A>C,Cell type-specific
+chr8:107068402_A>G,Tissue-specific
+chr8:107408743_C>T,Cell type-specific
+chr8:114733495_A>G,Cell type-specific
+chr8:117203009_C>T,Cell type-specific
+chr8:123019531_A>T,Post-gastrulation
+chr9:21442949_A>G,Post-gastrulation
+chr9:21568590_C>A,Cell type-specific
+chr9:34630370_T>G,Cell type-specific
+chr9:69099112_A>G,Pre-gastrulation
+chr9:72723047_A>G,Post-gastrulation
+chr9:90920096_A>G,Cell type-specific
+chr9:103200419_T>C,Cell type-specific
+chr9:108539735_A>G,Cell type-specific
+chr9:108626110_T>C,Post-gastrulation
+chrX:12142130_T>C,Cell type-specific
+chrX:36133271_A>G,Cell type-specific
+chrX:105907881_T>C,Pre-gastrulation
+chrX:130382559_G>A,Cell type-specific
+chr3:105728678_G>A,Cell type-specific
+chr19:23759900_T>C,Cell type-specific
+chr14:78653230_G>A,Cell type-specific
+chr15:86019605_A>G,Cell type-specific
+chr7:63932321_T>A,Pre-gastrulation
+chr8:71534117_C>T,Cell type-specific
+chr9:114592136_A>G,Cell type-specific
+chr7:89979976_A>G,Cell type-specific
+chr12:51636408_T>C,Cell type-specific
+chr9:123717207_A>G,Cell type-specific
+chr10:81129241_A>G,Cell type-specific
+chr10:108252912_G>A,Cell type-specific
+chr11:79540954_T>C,Cell type-specific
+chr11:88631209_A>G,Cell type-specific
+chr11:88694488_A>G,Cell type-specific
+chr11:100936800_G>A,Cell type-specific
+chr15:89213105_G>A,Cell type-specific
+chr16:13901114_C>T,Cell type-specific
+chr4:46471217_A>T,Cell type-specific
+chr4:134827488_T>C,Tissue-specific
+chr6:51455569_A>G,Cell type-specific
+chr6:112664001_C>T,Cell type-specific
+chr9:69274494_C>T,Cell type-specific
+chr10:4286355_A>G,Cell type-specific
+chr11:80326762_A>G,Pre-gastrulation
+chr3:18240574_A>C,Cell type-specific
+chr4:57722641_T>C,Cell type-specific
+chr5:123031227_A>G,Cell type-specific
+chr8:36906001_T>C,Cell type-specific
+chr8:117461254_G>A,Cell type-specific

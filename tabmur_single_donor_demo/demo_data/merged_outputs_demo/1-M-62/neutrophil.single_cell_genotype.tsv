@@ -1,0 +1,16 @@
+donor	sample	#CHROM	Start	End	REF	ALT_expected	Cell_type_expected	Num_cells_expected	CB	Cell_type_observed	Base_observed	Num_reads
+1-M-62	10X_P5_13	chr11	32297143	32297143	G	A	NK_cell	2	CGAGAAGCAATAGCGG	neutrophil	G	2
+1-M-62	10X_P5_13	chr11	32297143	32297143	G	A	NK_cell	2	TGTGTTTGTGCATCTA	neutrophil	G	1
+1-M-62	10X_P5_13	chr12	84971731	84971731	A	G	alveolar_macrophage	2	CGAGAAGCAATAGCGG	neutrophil	A	4
+1-M-62	10X_P5_13	chr12	85321194	85321194	T	A	alveolar_macrophage	2	CGTAGCGAGCAATATG	neutrophil	T	3
+1-M-62	10X_P5_13	chr12	85321194	85321194	T	A	alveolar_macrophage	2	GTTTCTAAGCAATCTC	neutrophil	T	2
+1-M-62	10X_P5_13	chr14	75230502	75230502	A	G	classical_monocyte	4	GACGTGCCATACGCCG	neutrophil	A	1
+1-M-62	10X_P5_13	chr14	75230502	75230502	A	G	classical_monocyte	4	GCACTCTGTAGCGCTC	neutrophil	A	1
+1-M-62	10X_P5_13	chr14	75230502	75230502	A	G	classical_monocyte	4	TCAGATGGTATAGGGC	neutrophil	A	1
+1-M-62	10X_P5_13	chr14	75230502	75230502	A	G	classical_monocyte	4	CGTAGCGAGCAATATG	neutrophil	A	1
+1-M-62	10X_P5_13	chr15	79907777	79907777	A	G	B_cell	3	CAGCATATCCACGACG	neutrophil	A	1
+1-M-62	10X_P5_13	chr17	71461142	71461142	T	C	classical_monocyte	2	GACGTGCCATACGCCG	neutrophil	T	2
+1-M-62	10X_P5_13	chr2	166069158	166069158	T	C	bronchial_smooth_muscle_cell	2	GACGTGCCATACGCCG	neutrophil	T	3
+1-M-62	10X_P5_13	chr4	42992699	42992699	T	C	alveolar_macrophage	4	CAGCATATCCACGACG	neutrophil	T	1
+1-M-62	10X_P5_13	chr7	126790795	126790795	T	C	bronchial_smooth_muscle_cell	5	GTTTCTAAGCAATCTC	neutrophil	T	1
+1-M-62	10X_P5_13	chrX	12616481	12616481	C	T	classical_monocyte	3	CGAGAAGCAATAGCGG	neutrophil	C	1

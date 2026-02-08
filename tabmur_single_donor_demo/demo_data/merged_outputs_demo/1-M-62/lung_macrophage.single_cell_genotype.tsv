@@ -1,0 +1,10 @@
+donor	sample	#CHROM	Start	End	REF	ALT_expected	Cell_type_expected	Num_cells_expected	CB	Cell_type_observed	Base_observed	Num_reads
+1-M-62	10X_P5_13	chr11	32297143	32297143	G	A	NK_cell	2	GGCTGGTAGGTCGGAT	lung_macrophage	G	2
+1-M-62	10X_P5_13	chr13	101759539	101759539	C	T	fibroblast_of_lung	2	GGCTGGTAGGTCGGAT	lung_macrophage	C	3
+1-M-62	10X_P5_13	chr14	75230502	75230502	A	G	classical_monocyte	4	AAGGTTCCAAGTTAAG	lung_macrophage	A	1
+1-M-62	10X_P5_13	chr15	79907777	79907777	A	G	B_cell	3	GCACTCTCAGACAGGT	lung_macrophage	A	2
+1-M-62	10X_P5_13	chr17	5161224	5161224	A	G	fibroblast_of_lung	2	GGCTGGTAGGTCGGAT	lung_macrophage	A	1
+1-M-62	10X_P5_13	chr19	23759900	23759900	T	C	myeloid_dendritic_cell	2	GCACTCTCAGACAGGT	lung_macrophage	T	5
+1-M-62	10X_P5_13	chr7	28363106	28363106	G	A	bronchial_smooth_muscle_cell	2	AAGGTTCCAAGTTAAG	lung_macrophage	G	7
+1-M-62	10X_P5_13	chr8	70475092	70475092	T	C	bronchial_smooth_muscle_cell	2	GCACTCTCAGACAGGT	lung_macrophage	T	5
+1-M-62	10X_P5_13	chrX	12616481	12616481	C	T	classical_monocyte	3	GGCTGGTAGGTCGGAT	lung_macrophage	C	1

@@ -1,0 +1,17 @@
+donor	sample	#CHROM	Start	End	REF	ALT_expected	Cell_type_expected	Num_cells_expected	CB	Cell_type_observed	Base_observed	Num_reads
+1-M-62	10X_P5_13	chr12	84971731	84971731	A	G	alveolar_macrophage	2	CTAGAGTAGGTGACCA	dendritic_cell	A	1
+1-M-62	10X_P5_13	chr13	101759539	101759539	C	T	fibroblast_of_lung	2	CTAGAGTAGGTGACCA	dendritic_cell	C	12
+1-M-62	10X_P5_13	chr13	101759539	101759539	C	T	fibroblast_of_lung	2	CATCGAATCTTTCCTC	dendritic_cell	C	15
+1-M-62	10X_P5_13	chr14	75230502	75230502	A	G	classical_monocyte	4	CTAGAGTAGGTGACCA	dendritic_cell	A	1
+1-M-62	10X_P5_13	chr15	79907777	79907777	A	G	B_cell	3	CTAGAGTAGGTGACCA	dendritic_cell	A	2
+1-M-62	10X_P5_13	chr15	79907777	79907777	A	G	B_cell	3	CATCGAATCTTTCCTC	dendritic_cell	A	1
+1-M-62	10X_P5_13	chr16	20691199	20691199	T	C	alveolar_macrophage	2	AAATGCCGTTTGTTGG	dendritic_cell	T	8
+1-M-62	10X_P5_13	chr17	5161224	5161224	A	G	fibroblast_of_lung	2	CATCGAATCTTTCCTC	dendritic_cell	A	1
+1-M-62	10X_P5_13	chr17	34269091	34269091	A	G	B_cell	3	CTAGAGTAGGTGACCA	dendritic_cell	A	2
+1-M-62	10X_P5_13	chr17	71461142	71461142	T	C	classical_monocyte	2	CTAGAGTAGGTGACCA	dendritic_cell	T	3
+1-M-62	10X_P5_13	chr19	23759900	23759900	T	C	myeloid_dendritic_cell	2	AAATGCCGTTTGTTGG	dendritic_cell	T	6
+1-M-62	10X_P5_13	chr19	53923438	53923438	C	G	B_cell	2	CATCGAATCTTTCCTC	dendritic_cell	C	4
+1-M-62	10X_P5_13	chr3	95886986	95886986	T	C	bronchial_smooth_muscle_cell	4	AAATGCCGTTTGTTGG	dendritic_cell	T	8
+1-M-62	10X_P5_13	chr3	95887048	95887048	T	C	bronchial_smooth_muscle_cell	5	AAATGCCGTTTGTTGG	dendritic_cell	T	4
+1-M-62	10X_P5_13	chr4	42992699	42992699	T	C	alveolar_macrophage	4	CTAGAGTAGGTGACCA	dendritic_cell	T	8
+1-M-62	10X_P5_13	chr7	89979976	89979976	A	G	non-classical_monocyte	2	AAATGCCGTTTGTTGG	dendritic_cell	A	6

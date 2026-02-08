@@ -1,0 +1,17 @@
+donor	sample	#CHROM	Start	End	REF	ALT_expected	Cell_type_expected	Num_cells_expected	CB	Cell_type_observed	Base_observed	Num_reads
+1-M-62	10X_P5_0	chr10	128491764	128491764	G	A	endothelial_cell_of_hepatic_sinusoid	2	TTGTAGGGTCTAGGTT	endothelial_cell_of_hepatic_sinusoid	A	3
+1-M-62	10X_P5_0	chr10	128491764	128491764	G	A	endothelial_cell_of_hepatic_sinusoid	2	TTTCCTCAGTAGATGT	endothelial_cell_of_hepatic_sinusoid	A	1
+1-M-62	10X_P5_0	chr10	128491764	128491764	G	A	endothelial_cell_of_hepatic_sinusoid	2	CGTGTCTTCGGCCGAT	endothelial_cell_of_hepatic_sinusoid	G	1
+1-M-62	10X_P5_0	chr10	128491764	128491764	G	A	endothelial_cell_of_hepatic_sinusoid	2	GTCTTCGGTGCGCTTG	endothelial_cell_of_hepatic_sinusoid	G	1
+1-M-62	10X_P5_0	chr10	128491764	128491764	G	A	endothelial_cell_of_hepatic_sinusoid	2	CTCATTAGTAGCGTCC	endothelial_cell_of_hepatic_sinusoid	G	3
+1-M-62	10X_P5_0	chr10	128491764	128491764	G	A	endothelial_cell_of_hepatic_sinusoid	2	CTGTGCTTCTGTCAAG	endothelial_cell_of_hepatic_sinusoid	G	2
+1-M-62	10X_P5_0	chr10	128491764	128491764	G	A	endothelial_cell_of_hepatic_sinusoid	2	ACGATACAGCCCTAAT	endothelial_cell_of_hepatic_sinusoid	G	1
+1-M-62	10X_P5_0	chr10	128491764	128491764	G	A	endothelial_cell_of_hepatic_sinusoid	2	TGCCCTATCAGTTGAC	endothelial_cell_of_hepatic_sinusoid	G	1
+1-M-62	10X_P5_0	chr10	128491764	128491764	G	A	endothelial_cell_of_hepatic_sinusoid	2	TTGTAGGGTCTAGGTT	endothelial_cell_of_hepatic_sinusoid	G	2
+1-M-62	10X_P5_0	chr10	128491764	128491764	G	A	endothelial_cell_of_hepatic_sinusoid	2	CCACGGAAGCGGATCA	endothelial_cell_of_hepatic_sinusoid	G	1
+1-M-62	10X_P5_0	chr8	128504172	128504172	A	G	endothelial_cell_of_hepatic_sinusoid	2	CGTGTCTTCGGCCGAT	endothelial_cell_of_hepatic_sinusoid	A	7
+1-M-62	10X_P5_0	chr8	128504172	128504172	A	G	endothelial_cell_of_hepatic_sinusoid	2	AGATCTGAGGTCATCT	endothelial_cell_of_hepatic_sinusoid	A	1
+1-M-62	10X_P5_0	chr8	128504172	128504172	A	G	endothelial_cell_of_hepatic_sinusoid	2	CGTGTCTTCGGCCGAT	endothelial_cell_of_hepatic_sinusoid	G	1
+1-M-62	10X_P5_0	chr8	128504172	128504172	A	G	endothelial_cell_of_hepatic_sinusoid	2	CCACGGAAGCGGATCA	endothelial_cell_of_hepatic_sinusoid	A	2
+1-M-62	10X_P5_0	chr8	128504172	128504172	A	G	endothelial_cell_of_hepatic_sinusoid	2	ACGATACAGCCCTAAT	endothelial_cell_of_hepatic_sinusoid	G	3
+1-M-62	10X_P5_0	chr8	128504172	128504172	A	G	endothelial_cell_of_hepatic_sinusoid	2	TGCCCTATCAGTTGAC	endothelial_cell_of_hepatic_sinusoid	A	1

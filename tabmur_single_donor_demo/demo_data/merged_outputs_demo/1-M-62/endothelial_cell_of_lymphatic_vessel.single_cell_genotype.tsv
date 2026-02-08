@@ -1,0 +1,7 @@
+donor	sample	#CHROM	Start	End	REF	ALT_expected	Cell_type_expected	Num_cells_expected	CB	Cell_type_observed	Base_observed	Num_reads
+1-M-62	10X_P5_13	chr15	79907777	79907777	A	G	B_cell	3	TCGTACCGTTCCAACA	endothelial_cell_of_lymphatic_vessel	A	1
+1-M-62	10X_P5_13	chr16	20691199	20691199	T	C	alveolar_macrophage	2	TCGTACCGTTCCAACA	endothelial_cell_of_lymphatic_vessel	T	5
+1-M-62	10X_P5_13	chr17	5161224	5161224	A	G	fibroblast_of_lung	2	TCGTACCGTTCCAACA	endothelial_cell_of_lymphatic_vessel	A	5
+1-M-62	10X_P5_13	chr4	42992699	42992699	T	C	alveolar_macrophage	4	TCGTACCGTTCCAACA	endothelial_cell_of_lymphatic_vessel	C	5
+1-M-62	10X_P5_13	chr5	111455117	111455117	T	C	adventitial_cell	2	TCGTACCGTTCCAACA	endothelial_cell_of_lymphatic_vessel	T	3
+1-M-62	10X_P5_13	chr8	70475092	70475092	T	C	bronchial_smooth_muscle_cell	2	TCGTACCGTTCCAACA	endothelial_cell_of_lymphatic_vessel	T	4

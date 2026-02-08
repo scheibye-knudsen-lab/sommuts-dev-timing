@@ -1,0 +1,9 @@
+donor	sample	#CHROM	Start	End	REF	ALT_expected	Cell_type_expected	Num_cells_expected	CB	Cell_type_observed	Base_observed	Num_reads
+1-M-62	10X_P5_13	chr11	102523273	102523273	C	G	classical_monocyte	2	CTTAACTAGGGCTCTC	type_II_pneumocyte	C	1
+1-M-62	10X_P5_13	chr17	71461142	71461142	T	C	classical_monocyte	2	CGACCTTCACGAAGCA	type_II_pneumocyte	T	2
+1-M-62	10X_P5_13	chr7	28363106	28363106	G	A	bronchial_smooth_muscle_cell	2	CGTAGCGTCCCATTAT	type_II_pneumocyte	G	1
+1-M-62	10X_P5_13	chr7	89979976	89979976	A	G	non-classical_monocyte	2	CGACCTTCACGAAGCA	type_II_pneumocyte	A	4
+1-M-62	10X_P5_13	chr8	70475092	70475092	T	C	bronchial_smooth_muscle_cell	2	CGTAGCGTCCCATTAT	type_II_pneumocyte	T	1
+1-M-62	10X_P5_13	chrX	12616481	12616481	C	T	classical_monocyte	3	CGTAGCGTCCCATTAT	type_II_pneumocyte	C	1
+1-M-62	10X_P5_13	chrX	12616481	12616481	C	T	classical_monocyte	3	CTCGAGGAGCACACAG	type_II_pneumocyte	C	1
+1-M-62	10X_P5_13	chrX	12616481	12616481	C	T	classical_monocyte	3	CGAGCCAGTCTAAAGA	type_II_pneumocyte	C	1

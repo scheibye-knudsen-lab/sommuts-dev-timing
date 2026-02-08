@@ -1,0 +1,17 @@
+donor	sample	#CHROM	Start	End	REF	ALT_expected	Cell_type_expected	Num_cells_expected	CB	Cell_type_observed	Base_observed	Num_reads
+1-M-62	10X_P5_13	chr11	32297143	32297143	G	A	NK_cell	2	ACACCGGAGTGTACCT	ciliated_columnar_cell_of_tracheobronchial_tree	G	1
+1-M-62	10X_P5_13	chr11	32297143	32297143	G	A	NK_cell	2	CTGCGGATCCACGCAG	ciliated_columnar_cell_of_tracheobronchial_tree	G	1
+1-M-62	10X_P5_13	chr11	32297143	32297143	G	A	NK_cell	2	CTAGCCTGTTCGTCTC	ciliated_columnar_cell_of_tracheobronchial_tree	G	1
+1-M-62	10X_P5_13	chr11	102523273	102523273	C	G	classical_monocyte	2	CGATCGGCATCCCACT	ciliated_columnar_cell_of_tracheobronchial_tree	C	2
+1-M-62	10X_P5_13	chr12	85321194	85321194	T	A	alveolar_macrophage	2	CTAGCCTGTTCGTCTC	ciliated_columnar_cell_of_tracheobronchial_tree	T	1
+1-M-62	10X_P5_13	chr13	101759539	101759539	C	T	fibroblast_of_lung	2	CTAGCCTGTTCGTCTC	ciliated_columnar_cell_of_tracheobronchial_tree	C	2
+1-M-62	10X_P5_13	chr15	79907777	79907777	A	G	B_cell	3	CTGCGGATCCACGCAG	ciliated_columnar_cell_of_tracheobronchial_tree	A	1
+1-M-62	10X_P5_13	chr16	20691199	20691199	T	C	alveolar_macrophage	2	CTAGCCTGTTCGTCTC	ciliated_columnar_cell_of_tracheobronchial_tree	T	3
+1-M-62	10X_P5_13	chr3	89167968	89167968	A	G	alveolar_macrophage	2	CTAGCCTGTTCGTCTC	ciliated_columnar_cell_of_tracheobronchial_tree	A	3
+1-M-62	10X_P5_13	chr4	42992699	42992699	T	C	alveolar_macrophage	4	CTGCGGATCCACGCAG	ciliated_columnar_cell_of_tracheobronchial_tree	T	5
+1-M-62	10X_P5_13	chr5	92878224	92878224	A	G	fibroblast_of_lung	2	CTAGCCTGTTCGTCTC	ciliated_columnar_cell_of_tracheobronchial_tree	A	6
+1-M-62	10X_P5_13	chr5	92878224	92878224	A	G	fibroblast_of_lung	2	CTAGAGTCAATGTTGC	ciliated_columnar_cell_of_tracheobronchial_tree	A	1
+1-M-62	10X_P5_13	chr5	92878237	92878237	A	G	fibroblast_of_lung	2	CTAGCCTGTTCGTCTC	ciliated_columnar_cell_of_tracheobronchial_tree	A	7
+1-M-62	10X_P5_13	chr5	92878237	92878237	A	G	fibroblast_of_lung	2	CTAGAGTCAATGTTGC	ciliated_columnar_cell_of_tracheobronchial_tree	A	1
+1-M-62	10X_P5_13	chr6	38577211	38577211	A	G	fibroblast_of_lung	3	CTAGAGTCAATGTTGC	ciliated_columnar_cell_of_tracheobronchial_tree	A	3
+1-M-62	10X_P5_13	chr8	70475092	70475092	T	C	bronchial_smooth_muscle_cell	2	ACACCGGAGTGTACCT	ciliated_columnar_cell_of_tracheobronchial_tree	T	5

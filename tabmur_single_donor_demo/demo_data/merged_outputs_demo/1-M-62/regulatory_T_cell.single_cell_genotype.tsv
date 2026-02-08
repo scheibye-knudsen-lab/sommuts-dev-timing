@@ -1,0 +1,6 @@
+donor	sample	#CHROM	Start	End	REF	ALT_expected	Cell_type_expected	Num_cells_expected	CB	Cell_type_observed	Base_observed	Num_reads
+1-M-62	10X_P5_13	chr12	84971731	84971731	A	G	alveolar_macrophage	2	TATCTCAGTATGCTTG	regulatory_T_cell	A	3
+1-M-62	10X_P5_13	chr14	75230502	75230502	A	G	classical_monocyte	4	TATCTCAGTATGCTTG	regulatory_T_cell	A	1
+1-M-62	10X_P5_13	chr2	43829550	43829550	A	G	CD4-positive,_alpha-beta_T_cell	2	TATCTCAGTATGCTTG	regulatory_T_cell	A	2
+1-M-62	10X_P5_13	chr4	11158870	11158870	A	G	fibroblast_of_lung	2	TATCTCAGTATGCTTG	regulatory_T_cell	A	9
+1-M-62	10X_P5_13	chr8	70475092	70475092	T	C	bronchial_smooth_muscle_cell	2	TATCTCAGTATGCTTG	regulatory_T_cell	T	2

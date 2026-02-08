@@ -1,0 +1,3 @@
+donor	sample	#CHROM	Start	End	REF	ALT_expected	Cell_type_expected	Num_cells_expected	CB	Cell_type_observed	Base_observed	Num_reads
+1-M-62	10X_P5_10	chr9	114592136	114592136	A	G	naive_T_cell	2	GCACTCTAGTTCCACA	erythroid_progenitor	A	1
+1-M-62	10X_P5_10	chr9	114592229	114592229	T	C	granulocytopoietic_cell	2	GCACTCTAGTTCCACA	erythroid_progenitor	T	1

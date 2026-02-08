@@ -1,0 +1,5 @@
+donor	sample	#CHROM	Start	End	REF	ALT_expected	Cell_type_expected	Num_cells_expected	CB	Cell_type_observed	Base_observed	Num_reads
+1-M-62	10X_P5_13	chr11	32297143	32297143	G	A	NK_cell	2	CATCAAGTCGTGGACC	smooth_muscle_cell_of_the_pulmonary_artery	G	1
+1-M-62	10X_P5_13	chr12	85321194	85321194	T	A	alveolar_macrophage	2	GACCTGGGTAGCGTAG	smooth_muscle_cell_of_the_pulmonary_artery	T	4
+1-M-62	10X_P5_13	chr4	42992699	42992699	T	C	alveolar_macrophage	4	AGTGGGAGTTGGAGGT	smooth_muscle_cell_of_the_pulmonary_artery	T	1
+1-M-62	10X_P5_13	chr6	83343347	83343347	T	G	alveolar_macrophage	3	CAGTAACAGTTGTCGT	smooth_muscle_cell_of_the_pulmonary_artery	T	1
