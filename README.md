@@ -1,4 +1,4 @@
-# Dev Timing Classification Demo Code
+# Developmental timing classification (Demo code)
 
 This package provides source code and a small dataset to compute cohort-standardized developmental stage mutation burden for TabMur donor 1-M-62 and save a cumulative plot. 
 
