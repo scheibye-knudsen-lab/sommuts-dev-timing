@@ -1,11 +1,11 @@
-# TabMur single-donor demo (1-M-62)
+# Developmental Timing Classification Demo Code (with Tabula Muris Senis)
 
 This package provides source code and a small dataset to compute cohort-standardized developmental stage mutation burden for TabMur donor 1-M-62 and save a cumulative plot. 
 
 ## Package contents
 
-- Source code only (no compiled binaries): `run_stage_burden_demo_single_donor.py`, `build_merged_outputs_single_donor.py`, `build_cell_metadata_table_single_donor.py`
-- Demo dataset (small, real): `demo_data/merged_outputs_demo/1-M-62/`, `demo_data/cell_metadata_table_1-M-62.csv`
+- Source code only: `run_stage_burden_demo_single_donor.py`, `build_merged_outputs_single_donor.py`, `build_cell_metadata_table_single_donor.py`
+- Demo dataset: `demo_data/merged_outputs_demo/1-M-62/`, `demo_data/cell_metadata_table_1-M-62.csv`
 - Cohort reference data (precomputed for 1-M-62): `demo_data/reference_weights_cells/*.csv`, `demo_data/reference_stage_labels_1-M-62.csv`
 
 ## System requirements
@@ -24,7 +24,7 @@ python3 -m venv .venv
 python3 -m pip install pandas==2.2.3 numpy==2.1.3 matplotlib==3.10.1
 ```
 
-Typical install time on a normal desktop: ~5 minutes.
+Typical install time on a normal desktop: ~2 minutes.
 
 ## Demo
 
@@ -40,9 +40,9 @@ Expected outputs:
 - `demo_results/stage_burden_per_donor_perkb_cumsum_STANDARDIZED_3LEVEL_cells.csv`
 - `demo_results/plots/cumulative_mutations_per_kb_STANDARDIZED_3LEVEL_cells_blues_by_age_months.png`
 
-Expected runtime on a normal desktop: ~10 seconds.
+Expected runtime on a normal desktop: ~30 seconds.
 
-## Instructions for use (your data; external inputs required)
+## Instructions for use (your data; external SNV file inputs required)
 
 To run on your own data, you need external inputs that are not included in this zip:
 - SingleCellAlleles outputs for your donor.
