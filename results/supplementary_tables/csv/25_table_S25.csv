@@ -1,0 +1,11 @@
+species,threshold,retained_donor_variant_calls,Embryoblast_count,Embryoblast_percent,Germ_layer_specific_count,Germ_layer_specific_percent,Tissue_specific_count,Tissue_specific_percent,Adult_cell_type_specific_count,Adult_cell_type_specific_percent
+Tabula Muris,1,10240,338,3.3,390,3.81,2122,20.72,7390,72.17
+Tabula Muris,2,10166,212,2.09,244,2.4,282,2.77,9428,92.74
+Tabula Muris,3,5481,130,2.37,138,2.52,49,0.89,5164,94.22
+Tabula Muris,5,1935,29,1.5,37,1.91,1,0.05,1868,96.54
+Tabula Muris,10,507,3,0.59,11,2.17,0,0.0,493,97.24
+Tabula Sapiens,1,17999,2954,16.41,5569,30.94,1424,7.91,8052,44.74
+Tabula Sapiens,2,15165,562,3.71,912,6.01,403,2.66,13288,87.62
+Tabula Sapiens,3,7037,105,1.49,191,2.71,74,1.05,6667,94.74
+Tabula Sapiens,5,2122,3,0.14,20,0.94,2,0.09,2097,98.82
+Tabula Sapiens,10,473,1,0.21,4,0.85,0,0.0,468,98.94

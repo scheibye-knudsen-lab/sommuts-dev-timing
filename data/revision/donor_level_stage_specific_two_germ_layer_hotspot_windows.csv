@@ -1,0 +1,81 @@
+species,dataset,donor,stage_label,n_variants,total_site_pairs,top_two_germ_layer_10bp_chrom,top_two_germ_layer_10bp_start,top_two_germ_layer_10bp_end,top_two_germ_layer_10bp_n_unique_sites,top_two_germ_layer_10bp_n_germ_layers,top_two_germ_layer_10bp_germ_layers,top_two_germ_layer_10bp_window_pair_fraction,top_two_germ_layer_10bp_mutation_frequency_per_bp,top_two_germ_layer_10bp_random_exact_site_probability,top_two_germ_layer_100bp_chrom,top_two_germ_layer_100bp_start,top_two_germ_layer_100bp_end,top_two_germ_layer_100bp_n_unique_sites,top_two_germ_layer_100bp_n_germ_layers,top_two_germ_layer_100bp_germ_layers,top_two_germ_layer_100bp_window_pair_fraction,top_two_germ_layer_100bp_mutation_frequency_per_bp,top_two_germ_layer_100bp_random_exact_site_probability,top_two_germ_layer_1kb_chrom,top_two_germ_layer_1kb_start,top_two_germ_layer_1kb_end,top_two_germ_layer_1kb_n_unique_sites,top_two_germ_layer_1kb_n_germ_layers,top_two_germ_layer_1kb_germ_layers,top_two_germ_layer_1kb_window_pair_fraction,top_two_germ_layer_1kb_mutation_frequency_per_bp,top_two_germ_layer_1kb_random_exact_site_probability
+Mouse,TabMur,1-M-62,Embryoblast,17,136,chr1,59843831,59843840,1,2,Ectoderm;Mesoderm,0.0,0.1,0.0,chr1,59843801,59843900,1,2,Ectoderm;Mesoderm,0.0,0.01,0.0,chr1,59843001,59844000,1,2,Ectoderm;Mesoderm,0.0,0.001,0.0
+Mouse,TabMur,1-M-62,Germ layer-specific,7,21,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0
+Mouse,TabMur,1-M-62,Tissue-specific,182,16471,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0
+Mouse,TabMur,1-M-62,Adult-specific,903,407253,,,,0,0,,0.0,0.0,0.0,chr16,32903801,32903900,3,2,Ectoderm;Mesoderm,7.366428239939301e-06,0.03,7.366428239939301e-08,chr15,100064001,100065000,3,2,Ectoderm;Mesoderm,7.366428239939301e-06,0.003,7.366428239939301e-09
+Mouse,TabMur,1-M-63,Embryoblast,77,2926,chr17,56090161,56090170,1,3,Ectoderm;Endoderm;Mesoderm,0.0,0.1,0.0,chr17,56090101,56090200,2,3,Ectoderm;Endoderm;Mesoderm,0.0003417634996582365,0.02,3.4176349965823652e-06,chr17,56090001,56091000,2,3,Ectoderm;Endoderm;Mesoderm,0.0003417634996582365,0.002,3.417634996582365e-07
+Mouse,TabMur,1-M-63,Germ layer-specific,60,1770,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0
+Mouse,TabMur,1-M-63,Tissue-specific,174,15051,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0
+Mouse,TabMur,1-M-63,Adult-specific,1128,635628,chr5,107905431,107905440,2,2,Ectoderm;Mesoderm,1.5732472452440736e-06,0.2,1.5732472452440735e-07,chr5,107905401,107905500,4,2,Ectoderm;Mesoderm,9.43948347146444e-06,0.04,9.439483471464441e-08,chr5,107905001,107906000,4,2,Ectoderm;Mesoderm,9.43948347146444e-06,0.004,9.43948347146444e-09
+Mouse,TabMur,18-F-50,Embryoblast,83,3403,chr7,19699731,19699740,2,2,Ectoderm;Mesoderm,0.0002938583602703497,0.2,2.9385836027034972e-05,chr13,55344001,55344100,2,3,Ectoderm;Endoderm;Mesoderm,0.0002938583602703497,0.02,2.938583602703497e-06,chr13,55344001,55345000,2,3,Ectoderm;Endoderm;Mesoderm,0.0002938583602703497,0.002,2.938583602703497e-07
+Mouse,TabMur,18-F-50,Germ layer-specific,34,561,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0
+Mouse,TabMur,18-F-50,Tissue-specific,173,14878,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0
+Mouse,TabMur,18-F-50,Adult-specific,675,227475,chr9,72723031,72723040,2,2,Endoderm;Mesoderm,4.396087482140895e-06,0.2,4.396087482140895e-07,chr4,126389401,126389500,2,2,Ectoderm;Mesoderm,4.396087482140895e-06,0.02,4.396087482140895e-08,chr11,75593001,75594000,4,2,Endoderm;Mesoderm,2.6376524892845368e-05,0.004,2.637652489284537e-08
+Mouse,TabMur,18-M-52,Embryoblast,45,990,chr12,84971731,84971740,1,3,Ectoderm;Endoderm;Mesoderm,0.0,0.1,0.0,chr5,97093801,97093900,2,2,Endoderm;Mesoderm,0.00101010101010101,0.02,1.0101010101010101e-05,chr5,97093001,97094000,2,2,Endoderm;Mesoderm,0.00101010101010101,0.002,1.01010101010101e-06
+Mouse,TabMur,18-M-52,Germ layer-specific,30,435,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0
+Mouse,TabMur,18-M-52,Tissue-specific,212,22366,,,,0,0,,0.0,0.0,0.0,chr4,41362901,41363000,2,2,Endoderm;Mesoderm,4.4710721631047124e-05,0.02,4.4710721631047124e-07,chr4,41362001,41363000,3,2,Endoderm;Mesoderm,0.00013413216489314137,0.003,1.3413216489314138e-07
+Mouse,TabMur,18-M-52,Adult-specific,702,246051,,,,0,0,,0.0,0.0,0.0,chr11,85636401,85636500,2,2,Endoderm;Mesoderm,4.0641980727572735e-06,0.02,4.0641980727572735e-08,chr13,63292001,63293000,3,2,Endoderm;Mesoderm,1.2192594218271821e-05,0.003,1.2192594218271821e-08
+Mouse,TabMur,21-F-54,Embryoblast,56,1540,chr11,117824801,117824810,2,2,Ectoderm;Mesoderm,0.0006493506493506494,0.2,6.493506493506494e-05,chr11,117824801,117824900,2,2,Ectoderm;Mesoderm,0.0006493506493506494,0.02,6.493506493506494e-06,chr11,117824001,117825000,2,2,Ectoderm;Mesoderm,0.0006493506493506494,0.002,6.493506493506493e-07
+Mouse,TabMur,21-F-54,Germ layer-specific,53,1378,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0
+Mouse,TabMur,21-F-54,Tissue-specific,206,21115,,,,0,0,,0.0,0.0,0.0,chr11,60797001,60797100,2,2,Ectoderm;Mesoderm,4.735969689793985e-05,0.02,4.7359696897939854e-07,chr11,60797001,60798000,2,2,Ectoderm;Mesoderm,4.735969689793985e-05,0.002,4.7359696897939857e-08
+Mouse,TabMur,21-F-54,Adult-specific,680,230860,,,,0,0,,0.0,0.0,0.0,chr2,59165901,59166000,2,2,Ectoderm;Mesoderm,4.331629559040111e-06,0.02,4.331629559040111e-08,chr2,59165001,59166000,2,2,Ectoderm;Mesoderm,4.331629559040111e-06,0.002,4.331629559040111e-09
+Mouse,TabMur,21-F-55,Embryoblast,96,4560,chr1,85819211,85819220,1,3,Ectoderm;Endoderm;Mesoderm,0.0,0.1,0.0,chr5,107390101,107390200,2,3,Ectoderm;Endoderm;Mesoderm,0.0002192982456140351,0.02,2.1929824561403507e-06,chr5,107390001,107391000,2,3,Ectoderm;Endoderm;Mesoderm,0.0002192982456140351,0.002,2.192982456140351e-07
+Mouse,TabMur,21-F-55,Germ layer-specific,58,1653,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0
+Mouse,TabMur,21-F-55,Tissue-specific,259,33411,chr9,66026441,66026450,2,2,Ectoderm;Endoderm,2.9930262488402023e-05,0.2,2.9930262488402024e-06,chr9,66026401,66026500,2,2,Ectoderm;Endoderm,2.9930262488402023e-05,0.02,2.993026248840202e-07,chr5,65481001,65482000,2,2,Ectoderm;Mesoderm,2.9930262488402023e-05,0.002,2.9930262488402024e-08
+Mouse,TabMur,21-F-55,Adult-specific,897,401856,,,,0,0,,0.0,0.0,0.0,chr16,5042701,5042800,3,2,Endoderm;Mesoderm,7.465360726230291e-06,0.03,7.465360726230291e-08,chr16,5042001,5043000,3,2,Endoderm;Mesoderm,7.465360726230291e-06,0.003,7.465360726230291e-09
+Mouse,TabMur,30-M-2,Embryoblast,12,66,chr1,171444961,171444970,1,2,Ectoderm;Mesoderm,0.0,0.1,0.0,chr1,171444901,171445000,1,2,Ectoderm;Mesoderm,0.0,0.01,0.0,chr1,171444001,171445000,1,2,Ectoderm;Mesoderm,0.0,0.001,0.0
+Mouse,TabMur,30-M-2,Germ layer-specific,41,820,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0
+Mouse,TabMur,30-M-2,Tissue-specific,325,52650,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0
+Mouse,TabMur,30-M-2,Adult-specific,735,269745,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0
+Mouse,TabMur,30-M-4,Embryoblast,15,105,chr2,163634831,163634840,1,2,Endoderm;Mesoderm,0.0,0.1,0.0,chr2,163634801,163634900,1,2,Endoderm;Mesoderm,0.0,0.01,0.0,chr2,163634001,163635000,1,2,Endoderm;Mesoderm,0.0,0.001,0.0
+Mouse,TabMur,30-M-4,Germ layer-specific,14,91,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0
+Mouse,TabMur,30-M-4,Tissue-specific,124,7626,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0
+Mouse,TabMur,30-M-4,Adult-specific,562,157641,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0,chr18,38465001,38466000,2,2,Endoderm;Mesoderm,6.343527381835944e-06,0.002,6.343527381835944e-09
+Mouse,TabMur,30-M-5,Embryoblast,43,903,chr1,74252211,74252220,1,2,Endoderm;Mesoderm,0.0,0.1,0.0,chr1,74252201,74252300,2,2,Endoderm;Mesoderm,0.0011074197120708748,0.02,1.1074197120708748e-05,chr1,74252001,74253000,2,2,Endoderm;Mesoderm,0.0011074197120708748,0.002,1.1074197120708748e-06
+Mouse,TabMur,30-M-5,Germ layer-specific,51,1275,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0
+Mouse,TabMur,30-M-5,Tissue-specific,240,28680,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0,chr19,4377001,4378000,2,2,Endoderm;Mesoderm,3.486750348675035e-05,0.002,3.486750348675035e-08
+Mouse,TabMur,30-M-5,Adult-specific,1037,537166,chr14,20349881,20349890,2,2,Endoderm;Mesoderm,1.8616219194811288e-06,0.2,1.8616219194811288e-07,chr5,139485101,139485200,3,2,Endoderm;Mesoderm,5.584865758443386e-06,0.03,5.5848657584433866e-08,chr2,23072001,23073000,3,2,Endoderm;Mesoderm,5.584865758443386e-06,0.003,5.584865758443386e-09
+Human,TabSap,TSP1,Embryoblast,141,9870,chr3,131023591,131023600,2,2,Endoderm;Mesoderm,0.00010131712259371833,0.2,1.0131712259371834e-05,chr3,131023501,131023600,2,2,Endoderm;Mesoderm,0.00010131712259371833,0.02,1.0131712259371833e-06,chr3,131023001,131024000,2,2,Endoderm;Mesoderm,0.00010131712259371833,0.002,1.0131712259371833e-07
+Human,TabSap,TSP1,Germ layer-specific,283,39903,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0
+Human,TabSap,TSP1,Tissue-specific,59,1711,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0
+Human,TabSap,TSP1,Adult-specific,773,298378,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0
+Human,TabSap,TSP10,Embryoblast,0,0,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0
+Human,TabSap,TSP10,Germ layer-specific,0,0,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0
+Human,TabSap,TSP10,Tissue-specific,0,0,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0
+Human,TabSap,TSP10,Adult-specific,0,0,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0
+Human,TabSap,TSP14,Embryoblast,474,112101,chr1,184612191,184612200,1,4,Ectoderm;Ectoderm/Endoderm;Endoderm;Mesoderm,0.0,0.1,0.0,chr19,35511401,35511500,2,3,Ectoderm;Endoderm;Mesoderm,8.92052702473662e-06,0.02,8.92052702473662e-08,chr19,35511001,35512000,2,3,Ectoderm;Endoderm;Mesoderm,8.92052702473662e-06,0.002,8.92052702473662e-09
+Human,TabSap,TSP14,Germ layer-specific,737,271216,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0
+Human,TabSap,TSP14,Tissue-specific,48,1128,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0
+Human,TabSap,TSP14,Adult-specific,1013,512578,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0
+Human,TabSap,TSP15,Embryoblast,0,0,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0
+Human,TabSap,TSP15,Germ layer-specific,0,0,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0
+Human,TabSap,TSP15,Tissue-specific,0,0,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0
+Human,TabSap,TSP15,Adult-specific,0,0,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0
+Human,TabSap,TSP2,Embryoblast,853,363378,chr3,160800931,160800940,2,2,Endoderm;Mesoderm,2.7519552642152247e-06,0.2,2.7519552642152245e-07,chr2,229145301,229145400,2,2,Endoderm;Mesoderm,2.7519552642152247e-06,0.02,2.7519552642152248e-08,chr2,164818001,164819000,2,2,Endoderm;Mesoderm,2.7519552642152247e-06,0.002,2.7519552642152248e-09
+Human,TabSap,TSP2,Germ layer-specific,1823,1660753,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0
+Human,TabSap,TSP2,Tissue-specific,331,54615,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0
+Human,TabSap,TSP2,Adult-specific,1915,1832655,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0,chr1,51876001,51877000,2,2,Endoderm;Mesoderm,5.456564383367301e-07,0.002,5.456564383367301e-10
+Human,TabSap,TSP21,Embryoblast,0,0,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0
+Human,TabSap,TSP21,Germ layer-specific,0,0,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0
+Human,TabSap,TSP21,Tissue-specific,0,0,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0
+Human,TabSap,TSP21,Adult-specific,0,0,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0
+Human,TabSap,TSP26,Embryoblast,0,0,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0
+Human,TabSap,TSP26,Germ layer-specific,0,0,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0
+Human,TabSap,TSP26,Tissue-specific,0,0,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0
+Human,TabSap,TSP26,Adult-specific,0,0,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0
+Human,TabSap,TSP30,Embryoblast,0,0,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0
+Human,TabSap,TSP30,Germ layer-specific,0,0,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0
+Human,TabSap,TSP30,Tissue-specific,0,0,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0
+Human,TabSap,TSP30,Adult-specific,0,0,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0
+Human,TabSap,TSP4,Embryoblast,0,0,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0
+Human,TabSap,TSP4,Germ layer-specific,0,0,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0
+Human,TabSap,TSP4,Tissue-specific,0,0,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0
+Human,TabSap,TSP4,Adult-specific,0,0,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0
+Human,TabSap,TSP7,Embryoblast,503,126253,chr1,1292851,1292860,2,2,Ectoderm/Endoderm;Mesoderm,7.920603866838809e-06,0.2,7.920603866838808e-07,chr1,1292801,1292900,2,2,Ectoderm/Endoderm;Mesoderm,7.920603866838809e-06,0.02,7.920603866838808e-08,chr1,1292001,1293000,2,2,Ectoderm/Endoderm;Mesoderm,7.920603866838809e-06,0.002,7.920603866838809e-09
+Human,TabSap,TSP7,Germ layer-specific,1180,695610,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0
+Human,TabSap,TSP7,Tissue-specific,150,11175,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0
+Human,TabSap,TSP7,Adult-specific,1199,718201,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0,chr10,104018001,104019000,2,2,Ectoderm/Endoderm;Mesoderm,1.392367874731447e-06,0.002,1.3923678747314469e-09
+Human,TabSap,TSP9,Embryoblast,0,0,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0
+Human,TabSap,TSP9,Germ layer-specific,0,0,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0
+Human,TabSap,TSP9,Tissue-specific,0,0,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0
+Human,TabSap,TSP9,Adult-specific,0,0,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0,,,,0,0,,0.0,0.0,0.0

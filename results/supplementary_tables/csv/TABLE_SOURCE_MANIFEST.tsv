@@ -1,0 +1,32 @@
+table	status	source	notes
+S1	current_derived	data/TabMur/aggregates/cb_table__any_type.csv	Unique mouse cell_type/tissue/germ_layer combinations from current packaged aggregate data.
+S2	current_derived	data/TabSap/aggregates/cb_table__any_type.csv	Unique human cell_type/tissue/germ_layer combinations from current packaged aggregate data; column name preserved from the source sheet.
+S3	current_direct	data/TabMur/expression_coupling/gsea_report_for_na_pos_1758807683509.tsv	Direct current packaged GSEA report.
+S4	current_direct	data/TabMur/expression_coupling/gsea_report_for_na_neg_1758807683509.tsv	Direct current packaged GSEA report.
+S5	current_direct	data/TabSap/expression_coupling/gsea_report_for_na_pos_1758807192566.tsv	Direct current packaged GSEA report.
+S6	current_direct	data/TabSap/expression_coupling/gsea_report_for_na_neg_1758807192566.tsv	Direct current packaged GSEA report.
+S7	bundled_cluster_export	data/supplementary_tables/enrichmentmap_cluster_exports/07_table_S7.csv	Current EnrichmentMap cluster export is not rebuildable from packaged artifacts; copied from bundled EnrichmentMap cluster export.
+S8	bundled_cluster_export	data/supplementary_tables/enrichmentmap_cluster_exports/08_table_S8.csv	Current EnrichmentMap cluster export is not rebuildable from packaged artifacts; copied from bundled EnrichmentMap cluster export.
+S9	bundled_cluster_export	data/supplementary_tables/enrichmentmap_cluster_exports/09_table_S9.csv	Current EnrichmentMap cluster export is not rebuildable from packaged artifacts; copied from bundled EnrichmentMap cluster export.
+S10	bundled_cluster_export	data/supplementary_tables/enrichmentmap_cluster_exports/10_table_S10.csv	Current EnrichmentMap cluster export is not rebuildable from packaged artifacts; copied from bundled EnrichmentMap cluster export.
+S11	current_direct	data/TabMur/expression_coupling_by_group/go_enrichment_by_group/go_combined.tsv	Direct current packaged table.
+S12	current_direct	data/TabSap/expression_coupling_by_group/go_enrichment_by_group/go_combined.tsv	Direct current packaged table.
+S25	current_direct	data/revision/developmental_stage_unified_support_threshold_sensitivity.csv	Direct current packaged table.
+S26	current_direct	data/revision/developmental_stage_unified_retained_counts.csv	Direct current packaged table.
+S27	current_direct	data/revision/developmental_stage_unified_substitution_class_sensitivity.csv	Direct current packaged table.
+S28	current_direct	data/revision/developmental_stage_unified_rna_editing_sensitivity.csv	Direct current packaged table.
+S30	current_direct	results/intermediate/per_donor_variant_support_metrics.tsv	Direct current packaged table.
+S31	current_direct	results/supplementary_tables/Supplementary_Table_stage_specific_SComatic_support_metrics.tsv	Direct current packaged table.
+S13	current_derived	data/TabMur/expression_coupling/gsea_report_for_na_pos_1758807683509.tsv; data/TabSap/expression_coupling/gsea_report_for_na_pos_1758807192566.tsv	Intersection of current mouse-positive and human-positive GSEA terms with average NES and conservative max(pvalue/FDR).
+S14	bundled_cluster_export	data/supplementary_tables/enrichmentmap_cluster_exports/14_table_S14.csv	Current EnrichmentMap cluster export for concordant up pathways is not rebuildable from packaged artifacts; copied from bundled EnrichmentMap cluster export.
+S15	current_derived	data/TabMur/expression_coupling/gsea_report_for_na_neg_1758807683509.tsv; data/TabSap/expression_coupling/gsea_report_for_na_neg_1758807192566.tsv	Intersection of current mouse-negative and human-negative GSEA terms with average NES and conservative max(pvalue/FDR).
+S16	bundled_cluster_export	data/supplementary_tables/enrichmentmap_cluster_exports/16_table_S16.csv	Current EnrichmentMap cluster export for concordant down pathways is not rebuildable from packaged artifacts; copied from bundled EnrichmentMap cluster export.
+S17	current_derived	data/TabMur/expression_coupling/gsea_report_for_na_pos_1758807683509.tsv; data/TabSap/expression_coupling/gsea_report_for_na_neg_1758807192566.tsv	Current mouse-up / human-down pathway intersection using mouse-side NES.
+S18	bundled_cluster_export	data/supplementary_tables/enrichmentmap_cluster_exports/18_table_S18.csv	Current EnrichmentMap cluster export for mouse-up/human-down pathways is not rebuildable from packaged artifacts; copied from bundled EnrichmentMap cluster export.
+S19	current_derived	data/TabMur/expression_coupling/gsea_report_for_na_neg_1758807683509.tsv; data/TabSap/expression_coupling/gsea_report_for_na_pos_1758807192566.tsv	Current mouse-down / human-up pathway intersection using mouse-side NES.
+S20	bundled_cluster_export	data/supplementary_tables/enrichmentmap_cluster_exports/20_table_S20.csv	Current EnrichmentMap cluster export for mouse-down/human-up pathways is not rebuildable from packaged artifacts; copied from bundled EnrichmentMap cluster export.
+S21	current_derived	data/TabSap/expression_coupling/gsea_report_for_na_pos_1758807192566.tsv; data/TabMur/expression_coupling/gsea_report_for_na_neg_1758807683509.tsv	Current human-up / mouse-down pathway intersection using human-side NES.
+S22	bundled_cluster_export	data/supplementary_tables/enrichmentmap_cluster_exports/22_table_S22.csv	Current EnrichmentMap cluster export for human-up/mouse-down pathways is not rebuildable from packaged artifacts; copied from bundled EnrichmentMap cluster export.
+S23	current_derived	data/TabSap/expression_coupling/gsea_report_for_na_neg_1758807192566.tsv; data/TabMur/expression_coupling/gsea_report_for_na_pos_1758807683509.tsv	Current human-down / mouse-up pathway intersection using human-side NES.
+S24	bundled_cluster_export	data/supplementary_tables/enrichmentmap_cluster_exports/24_table_S24.csv	Current EnrichmentMap cluster export for human-down/mouse-up pathways is not rebuildable from packaged artifacts; copied from bundled EnrichmentMap cluster export.
+S29	current_derived	data/revision/stage_weighting_summary.csv	Derived from current stage weighting summary: weighted=supporting-read-weighted, unweighted=cells-weighted, values stored as fractions.

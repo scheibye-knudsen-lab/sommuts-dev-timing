@@ -1,0 +1,10 @@
+ipython
+matplotlib
+nbformat
+numpy
+pandas
+pysam
+scipy
+seaborn
+scikit-learn
+statsmodels

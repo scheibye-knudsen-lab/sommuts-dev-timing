@@ -1,4 +1,13 @@
+Files/
+
 __pycache__/
-*.pyc
-.DS_Store
+*.py[cod]
 .ipynb_checkpoints/
+.DS_Store
+
+# Local-only external full assets, if added for a complete rerun.
+data/ref_genome/*.fa
+data/ref_genome/*.fasta
+data/ref_genome/*.gtf
+data/TabMur/gencode*.gtf
+data/**/expression_matrix_all_genes.npz

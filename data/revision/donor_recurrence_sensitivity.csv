@@ -1,0 +1,7 @@
+species,subset,n_donor_variant_calls,Embryoblast,Germ layer-specific,Tissue-specific,Adult-specific
+Tabula Muris,all donor-variant calls,11189,4.3,3.56,19.4,72.74
+Tabula Muris,single-donor loci,6462,2.41,1.53,13.39,82.67
+Tabula Muris,recurrent loci (>1 donor),4727,6.88,6.33,27.63,59.17
+Tabula Sapiens,all donor-variant calls,11741,17.11,35.01,5.12,42.76
+Tabula Sapiens,single-donor loci,11470,16.99,34.82,5.14,43.05
+Tabula Sapiens,recurrent loci (>1 donor),271,22.14,42.8,4.43,30.63

@@ -1,0 +1,11 @@
+species,threshold,retained_donor_variant_calls,retained_donor_variant_compartments,retained_unique_loci,retained_donors
+Tabula Muris,1,10240,14427,7733,9
+Tabula Muris,2,10166,11046,7675,9
+Tabula Muris,3,5481,5831,3940,9
+Tabula Muris,5,1935,2010,1437,9
+Tabula Muris,10,507,521,392,9
+Tabula Sapiens,1,17999,44076,17638,11
+Tabula Sapiens,2,15165,17923,14869,11
+Tabula Sapiens,3,7037,7489,6874,11
+Tabula Sapiens,5,2122,2161,2085,11
+Tabula Sapiens,10,473,481,464,11

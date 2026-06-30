@@ -1,0 +1,9 @@
+species,dataset,stage_label,n_unique_donor_variants,percent_unique_donor_variants,n_stage_timing_donors
+Mouse,TabMur,Embryoblast,455,4.451619215340965,9
+Mouse,TabMur,Germ layer-specific,355,3.4732413658154777,9
+Mouse,TabMur,Tissue-specific,1939,18.97074650229919,9
+Mouse,TabMur,Adult-specific,7472,73.10439291654437,9
+Human,TabSap,Embryoblast,2009,17.110978621923177,11
+Human,TabSap,Germ layer-specific,4110,35.005536155353035,11
+Human,TabSap,Tissue-specific,601,5.118814411038242,11
+Human,TabSap,Adult-specific,5021,42.76467081168555,11

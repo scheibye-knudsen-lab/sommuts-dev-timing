@@ -1,0 +1,9 @@
+species,stage_label,n_donor_variant_calls,n_layers_median,n_layers_mean,n_layers_max,n_layers_multi_percent,n_layers_ge_3_percent,n_tissues_median,n_tissues_mean,n_tissues_max,n_tissues_multi_percent,n_tissues_ge_3_percent,n_cell_types_median,n_cell_types_mean,n_cell_types_max,n_cell_types_multi_percent,n_cell_types_ge_3_percent
+Mouse,Embryoblast,481,2.0,2.02,3,100.0,2.49,2.0,1.63,5,53.22,8.73,2.0,2.58,9,92.52,39.5
+Mouse,Germ layer-specific,398,1.0,1.0,1,0.0,0.0,2.0,2.1,4,100.0,9.55,2.0,2.67,9,79.15,45.48
+Mouse,Tissue-specific,2171,1.0,1.0,1,0.0,0.0,1.0,1.0,1,0.0,0.0,2.0,2.29,8,100.0,20.87
+Mouse,Adult-specific,8139,1.0,1.0,1,0.0,0.0,1.0,1.0,1,0.0,0.0,1.0,1.0,1,0.0,0.0
+Human,Embryoblast,2009,2.0,2.06,4,100.0,5.23,3.0,3.35,10,95.62,66.1,4.0,4.97,21,100.0,74.86
+Human,Germ layer-specific,4110,1.0,1.0,1,0.0,0.0,2.0,2.47,8,100.0,33.72,2.0,2.72,13,75.52,41.41
+Human,Tissue-specific,601,1.0,1.0,1,0.0,0.0,1.0,1.0,1,0.0,0.0,2.0,2.2,5,100.0,16.97
+Human,Adult-specific,5021,1.0,1.0,1,0.0,0.0,1.0,1.0,1,0.0,0.0,1.0,1.0,1,0.0,0.0

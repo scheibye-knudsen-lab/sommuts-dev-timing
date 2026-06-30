@@ -1,0 +1,35 @@
+# This custom style attempts to replicate the formatting from your second graph
+
+figure.figsize : 12, 6
+figure.dpi : 300
+figure.constrained_layout.use : True
+
+# Font settings
+font.family : sans-serif
+font.size : 16
+
+# Axes settings
+axes.labelsize : 18
+axes.labelweight : bold
+axes.titlesize : 22
+axes.titleweight : bold
+axes.spines.top : False
+axes.spines.right : False
+
+# Tick settings
+xtick.labelsize : 16
+xtick.direction : out
+ytick.labelsize : 16
+ytick.direction : out
+
+# Legend settings
+legend.fontsize : 16
+legend.frameon : False
+
+# Color cycle
+axes.prop_cycle : cycler('color', ['blue', 'turquoise', 'gray', 'black'])
+
+# Grid settings (optional)
+grid.linestyle : --
+grid.linewidth : 0.5
+grid.color : 0.8

@@ -1,0 +1,17 @@
+species,weighting,stage,mean_percent
+Mouse,cells-weighted,Embryoblast,6.7359851223854
+Mouse,cells-weighted,Germ layer-specific,10.682750037026969
+Mouse,cells-weighted,Tissue-specific,32.535093068151156
+Mouse,cells-weighted,Adult-specific,50.04617177243647
+Mouse,supporting-read-weighted,Embryoblast,16.575485316488948
+Mouse,supporting-read-weighted,Germ layer-specific,8.620479772179262
+Mouse,supporting-read-weighted,Tissue-specific,27.983759148664774
+Mouse,supporting-read-weighted,Adult-specific,46.82027576266702
+Human,cells-weighted,Embryoblast,45.64816624244684
+Human,cells-weighted,Germ layer-specific,24.29922332797729
+Human,cells-weighted,Tissue-specific,14.455850863997206
+Human,cells-weighted,Adult-specific,15.596759565578667
+Human,supporting-read-weighted,Embryoblast,37.598056788339434
+Human,supporting-read-weighted,Germ layer-specific,44.0751950789045
+Human,supporting-read-weighted,Tissue-specific,5.499137899334646
+Human,supporting-read-weighted,Adult-specific,12.827610233421412

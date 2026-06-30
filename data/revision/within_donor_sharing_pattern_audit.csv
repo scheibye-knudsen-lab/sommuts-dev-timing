@@ -1,0 +1,13 @@
+species,sharing_pattern,n_donor_variant_calls,median_germ_layers,median_tissues,median_cell_types,percent_of_donor_variant_calls
+Tabula Muris,Embryoblast-compatible (>1 germ layer),481,2.0,2.0,2.0,4.298864956653857
+Tabula Muris,"Germ layer-specific-compatible (1 germ layer, >1 tissue)",398,1.0,2.0,2.0,3.557064974528555
+Tabula Muris,"Tissue-specific-compatible (1 germ layer, 1 tissue, >1 cell type)",2171,1.0,1.0,2.0,19.402985074626866
+Tabula Muris,"Adult-specific-compatible (1 germ layer, 1 tissue, 1 cell type)",8139,1.0,1.0,1.0,72.74108499419071
+Tabula Muris,Ambiguous,0,,,,0.0
+Tabula Muris,Unclassified,0,,,,0.0
+Tabula Sapiens,Embryoblast-compatible (>1 germ layer),2009,2.0,3.0,4.0,17.110978621923177
+Tabula Sapiens,"Germ layer-specific-compatible (1 germ layer, >1 tissue)",4110,1.0,2.0,2.0,35.005536155353035
+Tabula Sapiens,"Tissue-specific-compatible (1 germ layer, 1 tissue, >1 cell type)",601,1.0,1.0,2.0,5.118814411038242
+Tabula Sapiens,"Adult-specific-compatible (1 germ layer, 1 tissue, 1 cell type)",5021,1.0,1.0,1.0,42.76467081168555
+Tabula Sapiens,Ambiguous,0,,,,0.0
+Tabula Sapiens,Unclassified,0,,,,0.0

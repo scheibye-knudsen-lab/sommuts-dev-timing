@@ -1,0 +1,176 @@
+dataset,donor,stage_label,cumulative_fraction
+orth_val_1,ID01,Zygote,0.0
+orth_val_1,ID01,Embryoblast,0.2857142857142857
+orth_val_1,ID01,Germ layer-specific,0.37837837837837834
+orth_val_1,ID01,Tissue-specific,0.6833976833976834
+orth_val_1,ID01,Adult-specific,1.0
+orth_val_2,DB2,Zygote,0.0
+orth_val_2,DB3,Zygote,0.0
+orth_val_2,DB5,Zygote,0.0
+orth_val_2,DB2,Embryoblast,0.0004995246459014808
+orth_val_2,DB3,Embryoblast,0.00024809683611245315
+orth_val_2,DB5,Embryoblast,0.0005972561350501519
+orth_val_2,DB2,Germ layer-specific,0.0004995246459014808
+orth_val_2,DB3,Germ layer-specific,0.0003590875259522348
+orth_val_2,DB5,Germ layer-specific,0.0005972561350501519
+orth_val_2,DB2,Tissue-specific,0.000709002723215005
+orth_val_2,DB3,Tissue-specific,0.00036561639006045727
+orth_val_2,DB5,Tissue-specific,0.0006499552057898713
+orth_val_2,DB2,Adult-specific,1.0
+orth_val_2,DB3,Adult-specific,1.0
+orth_val_2,DB5,Adult-specific,1.0
+moore_val,PD28690,Zygote,0.0
+moore_val,PD42565/PD43851,Zygote,0.0
+moore_val,PD43850,Zygote,0.0
+moore_val,PD28690,Embryoblast,0.0001305388353035028
+moore_val,PD42565/PD43851,Embryoblast,6.053635207942369e-05
+moore_val,PD43850,Embryoblast,0.0
+moore_val,PD28690,Germ layer-specific,0.008325476829356734
+moore_val,PD42565/PD43851,Germ layer-specific,0.0004237544645559659
+moore_val,PD43850,Germ layer-specific,0.0
+moore_val,PD28690,Tissue-specific,0.05459424178693161
+moore_val,PD42565/PD43851,Tissue-specific,0.040498819541134455
+moore_val,PD43850,Tissue-specific,0.0023150700033072427
+moore_val,PD28690,Adult-specific,1.0
+moore_val,PD42565/PD43851,Adult-specific,1.0
+moore_val,PD43850,Adult-specific,1.0
+kim_val,AD-C-2007046,Zygote,0.0
+kim_val,AD-C-2010015,Zygote,0.0
+kim_val,AD-C-2012071,Zygote,0.0
+kim_val,AD-C-2013016,Zygote,0.0
+kim_val,AD-C-2014029,Zygote,0.0
+kim_val,AD-C-2014043,Zygote,0.0
+kim_val,ASD-C-1712,Zygote,0.0
+kim_val,ASD-C-4848,Zygote,0.0
+kim_val,ASD-C-4917,Zygote,0.0
+kim_val,ASD-C-5309,Zygote,0.0
+kim_val,ASD-C-5408,Zygote,0.0
+kim_val,SCZ-C-0002,Zygote,0.0
+kim_val,SCZ-C-0004,Zygote,0.0
+kim_val,SCZ-C-0007,Zygote,0.0
+kim_val,SCZ-C-0008,Zygote,0.0
+kim_val,SCZ-C-0009,Zygote,0.0
+kim_val,SCZ-C-0014,Zygote,0.0
+kim_val,SCZ-C-0027,Zygote,0.0
+kim_val,SCZ-C-0030,Zygote,0.0
+kim_val,SCZ-C-0048,Zygote,0.0
+kim_val,SCZ-C-1013,Zygote,0.0
+kim_val,SCZ-C-1014,Zygote,0.0
+kim_val,SCZ-C-1016,Zygote,0.0
+kim_val,SCZ-C-1018,Zygote,0.0
+kim_val,SCZ-C-1019,Zygote,0.0
+kim_val,SCZ-C-1020,Zygote,0.0
+kim_val,SCZ-C-1021,Zygote,0.0
+kim_val,SCZ-C-1022,Zygote,0.0
+kim_val,AD-C-2007046,Embryoblast,0.0
+kim_val,AD-C-2010015,Embryoblast,0.0
+kim_val,AD-C-2012071,Embryoblast,0.3333333333333333
+kim_val,AD-C-2013016,Embryoblast,0.0
+kim_val,AD-C-2014029,Embryoblast,0.16666666666666666
+kim_val,AD-C-2014043,Embryoblast,0.0
+kim_val,ASD-C-1712,Embryoblast,0.6666666666666666
+kim_val,ASD-C-4848,Embryoblast,0.0
+kim_val,ASD-C-4917,Embryoblast,0.0
+kim_val,ASD-C-5309,Embryoblast,0.3333333333333333
+kim_val,ASD-C-5408,Embryoblast,0.5
+kim_val,SCZ-C-0002,Embryoblast,1.0
+kim_val,SCZ-C-0004,Embryoblast,0.0
+kim_val,SCZ-C-0007,Embryoblast,1.0
+kim_val,SCZ-C-0008,Embryoblast,0.5
+kim_val,SCZ-C-0009,Embryoblast,0.0
+kim_val,SCZ-C-0014,Embryoblast,1.0
+kim_val,SCZ-C-0027,Embryoblast,0.0
+kim_val,SCZ-C-0030,Embryoblast,0.0
+kim_val,SCZ-C-0048,Embryoblast,0.0
+kim_val,SCZ-C-1013,Embryoblast,0.0
+kim_val,SCZ-C-1014,Embryoblast,0.25
+kim_val,SCZ-C-1016,Embryoblast,1.0
+kim_val,SCZ-C-1018,Embryoblast,0.0
+kim_val,SCZ-C-1019,Embryoblast,0.0
+kim_val,SCZ-C-1020,Embryoblast,0.0
+kim_val,SCZ-C-1021,Embryoblast,0.25
+kim_val,SCZ-C-1022,Embryoblast,0.0
+kim_val,AD-C-2007046,Germ layer-specific,0.0
+kim_val,AD-C-2010015,Germ layer-specific,0.0
+kim_val,AD-C-2012071,Germ layer-specific,0.3333333333333333
+kim_val,AD-C-2013016,Germ layer-specific,0.0
+kim_val,AD-C-2014029,Germ layer-specific,0.16666666666666666
+kim_val,AD-C-2014043,Germ layer-specific,0.0
+kim_val,ASD-C-1712,Germ layer-specific,0.6666666666666666
+kim_val,ASD-C-4848,Germ layer-specific,0.5
+kim_val,ASD-C-4917,Germ layer-specific,0.0
+kim_val,ASD-C-5309,Germ layer-specific,0.3333333333333333
+kim_val,ASD-C-5408,Germ layer-specific,0.5
+kim_val,SCZ-C-0002,Germ layer-specific,1.0
+kim_val,SCZ-C-0004,Germ layer-specific,0.0
+kim_val,SCZ-C-0007,Germ layer-specific,1.0
+kim_val,SCZ-C-0008,Germ layer-specific,0.5
+kim_val,SCZ-C-0009,Germ layer-specific,0.0
+kim_val,SCZ-C-0014,Germ layer-specific,1.0
+kim_val,SCZ-C-0027,Germ layer-specific,0.0
+kim_val,SCZ-C-0030,Germ layer-specific,0.0
+kim_val,SCZ-C-0048,Germ layer-specific,0.0
+kim_val,SCZ-C-1013,Germ layer-specific,0.0
+kim_val,SCZ-C-1014,Germ layer-specific,0.25
+kim_val,SCZ-C-1016,Germ layer-specific,1.0
+kim_val,SCZ-C-1018,Germ layer-specific,0.0
+kim_val,SCZ-C-1019,Germ layer-specific,0.0
+kim_val,SCZ-C-1020,Germ layer-specific,0.0
+kim_val,SCZ-C-1021,Germ layer-specific,0.25
+kim_val,SCZ-C-1022,Germ layer-specific,0.0
+kim_val,AD-C-2007046,Tissue-specific,0.0
+kim_val,AD-C-2010015,Tissue-specific,0.0
+kim_val,AD-C-2012071,Tissue-specific,0.3333333333333333
+kim_val,AD-C-2013016,Tissue-specific,0.0
+kim_val,AD-C-2014029,Tissue-specific,0.16666666666666666
+kim_val,AD-C-2014043,Tissue-specific,0.0
+kim_val,ASD-C-1712,Tissue-specific,0.6666666666666666
+kim_val,ASD-C-4848,Tissue-specific,0.5
+kim_val,ASD-C-4917,Tissue-specific,1.0
+kim_val,ASD-C-5309,Tissue-specific,1.0
+kim_val,ASD-C-5408,Tissue-specific,1.0
+kim_val,SCZ-C-0002,Tissue-specific,1.0
+kim_val,SCZ-C-0004,Tissue-specific,0.0
+kim_val,SCZ-C-0007,Tissue-specific,1.0
+kim_val,SCZ-C-0008,Tissue-specific,0.5
+kim_val,SCZ-C-0009,Tissue-specific,0.0
+kim_val,SCZ-C-0014,Tissue-specific,1.0
+kim_val,SCZ-C-0027,Tissue-specific,0.0
+kim_val,SCZ-C-0030,Tissue-specific,0.0
+kim_val,SCZ-C-0048,Tissue-specific,0.0
+kim_val,SCZ-C-1013,Tissue-specific,0.0
+kim_val,SCZ-C-1014,Tissue-specific,0.25
+kim_val,SCZ-C-1016,Tissue-specific,1.0
+kim_val,SCZ-C-1018,Tissue-specific,0.0
+kim_val,SCZ-C-1019,Tissue-specific,0.0
+kim_val,SCZ-C-1020,Tissue-specific,0.0
+kim_val,SCZ-C-1021,Tissue-specific,0.25
+kim_val,SCZ-C-1022,Tissue-specific,0.0
+kim_val,AD-C-2007046,Adult-specific,1.0
+kim_val,AD-C-2010015,Adult-specific,1.0
+kim_val,AD-C-2012071,Adult-specific,1.0
+kim_val,AD-C-2013016,Adult-specific,1.0
+kim_val,AD-C-2014029,Adult-specific,1.0
+kim_val,AD-C-2014043,Adult-specific,1.0
+kim_val,ASD-C-1712,Adult-specific,1.0
+kim_val,ASD-C-4848,Adult-specific,1.0
+kim_val,ASD-C-4917,Adult-specific,1.0
+kim_val,ASD-C-5309,Adult-specific,1.0
+kim_val,ASD-C-5408,Adult-specific,1.0
+kim_val,SCZ-C-0002,Adult-specific,1.0
+kim_val,SCZ-C-0004,Adult-specific,1.0
+kim_val,SCZ-C-0007,Adult-specific,1.0
+kim_val,SCZ-C-0008,Adult-specific,1.0
+kim_val,SCZ-C-0009,Adult-specific,1.0
+kim_val,SCZ-C-0014,Adult-specific,1.0
+kim_val,SCZ-C-0027,Adult-specific,1.0
+kim_val,SCZ-C-0030,Adult-specific,1.0
+kim_val,SCZ-C-0048,Adult-specific,1.0
+kim_val,SCZ-C-1013,Adult-specific,1.0
+kim_val,SCZ-C-1014,Adult-specific,1.0
+kim_val,SCZ-C-1016,Adult-specific,1.0
+kim_val,SCZ-C-1018,Adult-specific,1.0
+kim_val,SCZ-C-1019,Adult-specific,1.0
+kim_val,SCZ-C-1020,Adult-specific,1.0
+kim_val,SCZ-C-1021,Adult-specific,1.0
+kim_val,SCZ-C-1022,Adult-specific,1.0

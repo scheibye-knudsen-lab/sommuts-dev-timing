@@ -1,0 +1,9 @@
+species,stage_label,n_donor_variant_calls,recurrent_donor_variant_calls,recurrent_call_percent
+Tabula Muris,Embryoblast,481,325,67.56756756756756
+Tabula Muris,Germ layer-specific,398,299,75.12562814070351
+Tabula Muris,Tissue-specific,2171,1306,60.156609857208664
+Tabula Muris,Adult-specific,8139,2797,34.36540115493304
+Tabula Sapiens,Embryoblast,2009,60,2.9865604778496766
+Tabula Sapiens,Germ layer-specific,4110,116,2.8223844282238444
+Tabula Sapiens,Tissue-specific,601,12,1.9966722129783694
+Tabula Sapiens,Adult-specific,5021,83,1.6530571599283013

@@ -1,0 +1,313 @@
+donor,stage,value,filter_name,filter_title,metric_type
+DB2,Embryoblast,31.0,all_variants,All WGS variants,site_count
+DB3,Embryoblast,38.0,all_variants,All WGS variants,site_count
+DB5,Embryoblast,34.0,all_variants,All WGS variants,site_count
+DB2,Germ layer-specific,0.0,all_variants,All WGS variants,site_count
+DB3,Germ layer-specific,17.0,all_variants,All WGS variants,site_count
+DB5,Germ layer-specific,0.0,all_variants,All WGS variants,site_count
+DB2,Tissue-specific,13.0,all_variants,All WGS variants,site_count
+DB3,Tissue-specific,1.0,all_variants,All WGS variants,site_count
+DB5,Tissue-specific,3.0,all_variants,All WGS variants,site_count
+DB2,Adult-specific,62015.0,all_variants,All WGS variants,site_count
+DB3,Adult-specific,153110.0,all_variants,All WGS variants,site_count
+DB5,Adult-specific,56890.0,all_variants,All WGS variants,site_count
+DB2,Embryoblast,69.0,all_variants,All WGS variants,cell_type_breadth_burden
+DB3,Embryoblast,103.0,all_variants,All WGS variants,cell_type_breadth_burden
+DB5,Embryoblast,76.0,all_variants,All WGS variants,cell_type_breadth_burden
+DB2,Germ layer-specific,0.0,all_variants,All WGS variants,cell_type_breadth_burden
+DB3,Germ layer-specific,34.0,all_variants,All WGS variants,cell_type_breadth_burden
+DB5,Germ layer-specific,0.0,all_variants,All WGS variants,cell_type_breadth_burden
+DB2,Tissue-specific,26.0,all_variants,All WGS variants,cell_type_breadth_burden
+DB3,Tissue-specific,2.0,all_variants,All WGS variants,cell_type_breadth_burden
+DB5,Tissue-specific,6.0,all_variants,All WGS variants,cell_type_breadth_burden
+DB2,Adult-specific,62015.0,all_variants,All WGS variants,cell_type_breadth_burden
+DB3,Adult-specific,153110.0,all_variants,All WGS variants,cell_type_breadth_burden
+DB5,Adult-specific,56890.0,all_variants,All WGS variants,cell_type_breadth_burden
+DB2,Embryoblast,0.0004995246459014808,all_variants,All WGS variants,site_fraction
+DB3,Embryoblast,0.00024809683611245315,all_variants,All WGS variants,site_fraction
+DB5,Embryoblast,0.0005972561350501519,all_variants,All WGS variants,site_fraction
+DB2,Germ layer-specific,0.0,all_variants,All WGS variants,site_fraction
+DB3,Germ layer-specific,0.00011099068983978167,all_variants,All WGS variants,site_fraction
+DB5,Germ layer-specific,0.0,all_variants,All WGS variants,site_fraction
+DB2,Tissue-specific,0.00020947807731352424,all_variants,All WGS variants,site_fraction
+DB3,Tissue-specific,6.528864108222451e-06,all_variants,All WGS variants,site_fraction
+DB5,Tissue-specific,5.269907073971929e-05,all_variants,All WGS variants,site_fraction
+DB2,Adult-specific,0.9992909972767849,all_variants,All WGS variants,site_fraction
+DB3,Adult-specific,0.9996343836099395,all_variants,All WGS variants,site_fraction
+DB5,Adult-specific,0.9993500447942101,all_variants,All WGS variants,site_fraction
+DB2,Embryoblast,0.001110932217034294,all_variants,All WGS variants,cell_type_breadth_fraction
+DB3,Embryoblast,0.0006721087902694308,all_variants,All WGS variants,cell_type_breadth_fraction
+DB5,Embryoblast,0.0013339886259917152,all_variants,All WGS variants,cell_type_breadth_fraction
+DB2,Germ layer-specific,0.0,all_variants,All WGS variants,cell_type_breadth_fraction
+DB3,Germ layer-specific,0.00022186115406952085,all_variants,All WGS variants,cell_type_breadth_fraction
+DB5,Germ layer-specific,0.0,all_variants,All WGS variants,cell_type_breadth_fraction
+DB2,Tissue-specific,0.0004186121397520528,all_variants,All WGS variants,cell_type_breadth_fraction
+DB3,Tissue-specific,1.305065612173652e-05,all_variants,All WGS variants,cell_type_breadth_fraction
+DB5,Tissue-specific,0.00010531489152566173,all_variants,All WGS variants,cell_type_breadth_fraction
+DB2,Adult-specific,0.9984704556432137,all_variants,All WGS variants,cell_type_breadth_fraction
+DB3,Adult-specific,0.9990929793995393,all_variants,All WGS variants,cell_type_breadth_fraction
+DB5,Adult-specific,0.9985606964824826,all_variants,All WGS variants,cell_type_breadth_fraction
+DB2,Zygote,0.0,all_variants,All WGS variants,site_cumulative
+DB3,Zygote,0.0,all_variants,All WGS variants,site_cumulative
+DB5,Zygote,0.0,all_variants,All WGS variants,site_cumulative
+DB2,Embryoblast,0.0004995246459014808,all_variants,All WGS variants,site_cumulative
+DB3,Embryoblast,0.00024809683611245315,all_variants,All WGS variants,site_cumulative
+DB5,Embryoblast,0.0005972561350501519,all_variants,All WGS variants,site_cumulative
+DB2,Germ layer-specific,0.0004995246459014808,all_variants,All WGS variants,site_cumulative
+DB3,Germ layer-specific,0.0003590875259522348,all_variants,All WGS variants,site_cumulative
+DB5,Germ layer-specific,0.0005972561350501519,all_variants,All WGS variants,site_cumulative
+DB2,Tissue-specific,0.000709002723215005,all_variants,All WGS variants,site_cumulative
+DB3,Tissue-specific,0.00036561639006045727,all_variants,All WGS variants,site_cumulative
+DB5,Tissue-specific,0.0006499552057898713,all_variants,All WGS variants,site_cumulative
+DB2,Adult-specific,1.0,all_variants,All WGS variants,site_cumulative
+DB3,Adult-specific,1.0,all_variants,All WGS variants,site_cumulative
+DB5,Adult-specific,1.0,all_variants,All WGS variants,site_cumulative
+DB2,Zygote,0.0,all_variants,All WGS variants,cell_type_breadth_cumulative
+DB3,Zygote,0.0,all_variants,All WGS variants,cell_type_breadth_cumulative
+DB5,Zygote,0.0,all_variants,All WGS variants,cell_type_breadth_cumulative
+DB2,Embryoblast,0.001110932217034294,all_variants,All WGS variants,cell_type_breadth_cumulative
+DB3,Embryoblast,0.0006721087902694308,all_variants,All WGS variants,cell_type_breadth_cumulative
+DB5,Embryoblast,0.0013339886259917152,all_variants,All WGS variants,cell_type_breadth_cumulative
+DB2,Germ layer-specific,0.001110932217034294,all_variants,All WGS variants,cell_type_breadth_cumulative
+DB3,Germ layer-specific,0.0008939699443389516,all_variants,All WGS variants,cell_type_breadth_cumulative
+DB5,Germ layer-specific,0.0013339886259917152,all_variants,All WGS variants,cell_type_breadth_cumulative
+DB2,Tissue-specific,0.0015295443567863469,all_variants,All WGS variants,cell_type_breadth_cumulative
+DB3,Tissue-specific,0.0009070206004606881,all_variants,All WGS variants,cell_type_breadth_cumulative
+DB5,Tissue-specific,0.001439303517517377,all_variants,All WGS variants,cell_type_breadth_cumulative
+DB2,Adult-specific,1.0,all_variants,All WGS variants,cell_type_breadth_cumulative
+DB3,Adult-specific,1.0,all_variants,All WGS variants,cell_type_breadth_cumulative
+DB5,Adult-specific,1.0,all_variants,All WGS variants,cell_type_breadth_cumulative
+DB2,Embryoblast,31.0,shared_2plus_cell_types,Shared in >=2 distinct cell types,site_count
+DB3,Embryoblast,38.0,shared_2plus_cell_types,Shared in >=2 distinct cell types,site_count
+DB5,Embryoblast,34.0,shared_2plus_cell_types,Shared in >=2 distinct cell types,site_count
+DB2,Germ layer-specific,0.0,shared_2plus_cell_types,Shared in >=2 distinct cell types,site_count
+DB3,Germ layer-specific,17.0,shared_2plus_cell_types,Shared in >=2 distinct cell types,site_count
+DB5,Germ layer-specific,0.0,shared_2plus_cell_types,Shared in >=2 distinct cell types,site_count
+DB2,Tissue-specific,13.0,shared_2plus_cell_types,Shared in >=2 distinct cell types,site_count
+DB3,Tissue-specific,1.0,shared_2plus_cell_types,Shared in >=2 distinct cell types,site_count
+DB5,Tissue-specific,3.0,shared_2plus_cell_types,Shared in >=2 distinct cell types,site_count
+DB2,Adult-specific,0.0,shared_2plus_cell_types,Shared in >=2 distinct cell types,site_count
+DB3,Adult-specific,0.0,shared_2plus_cell_types,Shared in >=2 distinct cell types,site_count
+DB5,Adult-specific,0.0,shared_2plus_cell_types,Shared in >=2 distinct cell types,site_count
+DB2,Embryoblast,69.0,shared_2plus_cell_types,Shared in >=2 distinct cell types,cell_type_breadth_burden
+DB3,Embryoblast,103.0,shared_2plus_cell_types,Shared in >=2 distinct cell types,cell_type_breadth_burden
+DB5,Embryoblast,76.0,shared_2plus_cell_types,Shared in >=2 distinct cell types,cell_type_breadth_burden
+DB2,Germ layer-specific,0.0,shared_2plus_cell_types,Shared in >=2 distinct cell types,cell_type_breadth_burden
+DB3,Germ layer-specific,34.0,shared_2plus_cell_types,Shared in >=2 distinct cell types,cell_type_breadth_burden
+DB5,Germ layer-specific,0.0,shared_2plus_cell_types,Shared in >=2 distinct cell types,cell_type_breadth_burden
+DB2,Tissue-specific,26.0,shared_2plus_cell_types,Shared in >=2 distinct cell types,cell_type_breadth_burden
+DB3,Tissue-specific,2.0,shared_2plus_cell_types,Shared in >=2 distinct cell types,cell_type_breadth_burden
+DB5,Tissue-specific,6.0,shared_2plus_cell_types,Shared in >=2 distinct cell types,cell_type_breadth_burden
+DB2,Adult-specific,0.0,shared_2plus_cell_types,Shared in >=2 distinct cell types,cell_type_breadth_burden
+DB3,Adult-specific,0.0,shared_2plus_cell_types,Shared in >=2 distinct cell types,cell_type_breadth_burden
+DB5,Adult-specific,0.0,shared_2plus_cell_types,Shared in >=2 distinct cell types,cell_type_breadth_burden
+DB2,Embryoblast,0.7045454545454546,shared_2plus_cell_types,Shared in >=2 distinct cell types,site_fraction
+DB3,Embryoblast,0.6785714285714286,shared_2plus_cell_types,Shared in >=2 distinct cell types,site_fraction
+DB5,Embryoblast,0.918918918918919,shared_2plus_cell_types,Shared in >=2 distinct cell types,site_fraction
+DB2,Germ layer-specific,0.0,shared_2plus_cell_types,Shared in >=2 distinct cell types,site_fraction
+DB3,Germ layer-specific,0.30357142857142855,shared_2plus_cell_types,Shared in >=2 distinct cell types,site_fraction
+DB5,Germ layer-specific,0.0,shared_2plus_cell_types,Shared in >=2 distinct cell types,site_fraction
+DB2,Tissue-specific,0.29545454545454547,shared_2plus_cell_types,Shared in >=2 distinct cell types,site_fraction
+DB3,Tissue-specific,0.017857142857142856,shared_2plus_cell_types,Shared in >=2 distinct cell types,site_fraction
+DB5,Tissue-specific,0.08108108108108109,shared_2plus_cell_types,Shared in >=2 distinct cell types,site_fraction
+DB2,Adult-specific,0.0,shared_2plus_cell_types,Shared in >=2 distinct cell types,site_fraction
+DB3,Adult-specific,0.0,shared_2plus_cell_types,Shared in >=2 distinct cell types,site_fraction
+DB5,Adult-specific,0.0,shared_2plus_cell_types,Shared in >=2 distinct cell types,site_fraction
+DB2,Embryoblast,0.7263157894736842,shared_2plus_cell_types,Shared in >=2 distinct cell types,cell_type_breadth_fraction
+DB3,Embryoblast,0.7410071942446043,shared_2plus_cell_types,Shared in >=2 distinct cell types,cell_type_breadth_fraction
+DB5,Embryoblast,0.926829268292683,shared_2plus_cell_types,Shared in >=2 distinct cell types,cell_type_breadth_fraction
+DB2,Germ layer-specific,0.0,shared_2plus_cell_types,Shared in >=2 distinct cell types,cell_type_breadth_fraction
+DB3,Germ layer-specific,0.2446043165467626,shared_2plus_cell_types,Shared in >=2 distinct cell types,cell_type_breadth_fraction
+DB5,Germ layer-specific,0.0,shared_2plus_cell_types,Shared in >=2 distinct cell types,cell_type_breadth_fraction
+DB2,Tissue-specific,0.2736842105263158,shared_2plus_cell_types,Shared in >=2 distinct cell types,cell_type_breadth_fraction
+DB3,Tissue-specific,0.014388489208633094,shared_2plus_cell_types,Shared in >=2 distinct cell types,cell_type_breadth_fraction
+DB5,Tissue-specific,0.07317073170731707,shared_2plus_cell_types,Shared in >=2 distinct cell types,cell_type_breadth_fraction
+DB2,Adult-specific,0.0,shared_2plus_cell_types,Shared in >=2 distinct cell types,cell_type_breadth_fraction
+DB3,Adult-specific,0.0,shared_2plus_cell_types,Shared in >=2 distinct cell types,cell_type_breadth_fraction
+DB5,Adult-specific,0.0,shared_2plus_cell_types,Shared in >=2 distinct cell types,cell_type_breadth_fraction
+DB2,Zygote,0.0,shared_2plus_cell_types,Shared in >=2 distinct cell types,site_cumulative
+DB3,Zygote,0.0,shared_2plus_cell_types,Shared in >=2 distinct cell types,site_cumulative
+DB5,Zygote,0.0,shared_2plus_cell_types,Shared in >=2 distinct cell types,site_cumulative
+DB2,Embryoblast,0.7045454545454546,shared_2plus_cell_types,Shared in >=2 distinct cell types,site_cumulative
+DB3,Embryoblast,0.6785714285714286,shared_2plus_cell_types,Shared in >=2 distinct cell types,site_cumulative
+DB5,Embryoblast,0.918918918918919,shared_2plus_cell_types,Shared in >=2 distinct cell types,site_cumulative
+DB2,Germ layer-specific,0.7045454545454546,shared_2plus_cell_types,Shared in >=2 distinct cell types,site_cumulative
+DB3,Germ layer-specific,0.9821428571428572,shared_2plus_cell_types,Shared in >=2 distinct cell types,site_cumulative
+DB5,Germ layer-specific,0.918918918918919,shared_2plus_cell_types,Shared in >=2 distinct cell types,site_cumulative
+DB2,Tissue-specific,1.0,shared_2plus_cell_types,Shared in >=2 distinct cell types,site_cumulative
+DB3,Tissue-specific,1.0,shared_2plus_cell_types,Shared in >=2 distinct cell types,site_cumulative
+DB5,Tissue-specific,1.0,shared_2plus_cell_types,Shared in >=2 distinct cell types,site_cumulative
+DB2,Adult-specific,1.0,shared_2plus_cell_types,Shared in >=2 distinct cell types,site_cumulative
+DB3,Adult-specific,1.0,shared_2plus_cell_types,Shared in >=2 distinct cell types,site_cumulative
+DB5,Adult-specific,1.0,shared_2plus_cell_types,Shared in >=2 distinct cell types,site_cumulative
+DB2,Zygote,0.0,shared_2plus_cell_types,Shared in >=2 distinct cell types,cell_type_breadth_cumulative
+DB3,Zygote,0.0,shared_2plus_cell_types,Shared in >=2 distinct cell types,cell_type_breadth_cumulative
+DB5,Zygote,0.0,shared_2plus_cell_types,Shared in >=2 distinct cell types,cell_type_breadth_cumulative
+DB2,Embryoblast,0.7263157894736842,shared_2plus_cell_types,Shared in >=2 distinct cell types,cell_type_breadth_cumulative
+DB3,Embryoblast,0.7410071942446043,shared_2plus_cell_types,Shared in >=2 distinct cell types,cell_type_breadth_cumulative
+DB5,Embryoblast,0.926829268292683,shared_2plus_cell_types,Shared in >=2 distinct cell types,cell_type_breadth_cumulative
+DB2,Germ layer-specific,0.7263157894736842,shared_2plus_cell_types,Shared in >=2 distinct cell types,cell_type_breadth_cumulative
+DB3,Germ layer-specific,0.9856115107913669,shared_2plus_cell_types,Shared in >=2 distinct cell types,cell_type_breadth_cumulative
+DB5,Germ layer-specific,0.926829268292683,shared_2plus_cell_types,Shared in >=2 distinct cell types,cell_type_breadth_cumulative
+DB2,Tissue-specific,1.0,shared_2plus_cell_types,Shared in >=2 distinct cell types,cell_type_breadth_cumulative
+DB3,Tissue-specific,1.0,shared_2plus_cell_types,Shared in >=2 distinct cell types,cell_type_breadth_cumulative
+DB5,Tissue-specific,1.0,shared_2plus_cell_types,Shared in >=2 distinct cell types,cell_type_breadth_cumulative
+DB2,Adult-specific,1.0,shared_2plus_cell_types,Shared in >=2 distinct cell types,cell_type_breadth_cumulative
+DB3,Adult-specific,1.0,shared_2plus_cell_types,Shared in >=2 distinct cell types,cell_type_breadth_cumulative
+DB5,Adult-specific,1.0,shared_2plus_cell_types,Shared in >=2 distinct cell types,cell_type_breadth_cumulative
+DB2,Embryoblast,31.0,shared_2plus_tissues,Shared in >=2 tissue groups,site_count
+DB3,Embryoblast,38.0,shared_2plus_tissues,Shared in >=2 tissue groups,site_count
+DB5,Embryoblast,34.0,shared_2plus_tissues,Shared in >=2 tissue groups,site_count
+DB2,Germ layer-specific,0.0,shared_2plus_tissues,Shared in >=2 tissue groups,site_count
+DB3,Germ layer-specific,17.0,shared_2plus_tissues,Shared in >=2 tissue groups,site_count
+DB5,Germ layer-specific,0.0,shared_2plus_tissues,Shared in >=2 tissue groups,site_count
+DB2,Tissue-specific,0.0,shared_2plus_tissues,Shared in >=2 tissue groups,site_count
+DB3,Tissue-specific,0.0,shared_2plus_tissues,Shared in >=2 tissue groups,site_count
+DB5,Tissue-specific,0.0,shared_2plus_tissues,Shared in >=2 tissue groups,site_count
+DB2,Adult-specific,0.0,shared_2plus_tissues,Shared in >=2 tissue groups,site_count
+DB3,Adult-specific,0.0,shared_2plus_tissues,Shared in >=2 tissue groups,site_count
+DB5,Adult-specific,0.0,shared_2plus_tissues,Shared in >=2 tissue groups,site_count
+DB2,Embryoblast,69.0,shared_2plus_tissues,Shared in >=2 tissue groups,cell_type_breadth_burden
+DB3,Embryoblast,103.0,shared_2plus_tissues,Shared in >=2 tissue groups,cell_type_breadth_burden
+DB5,Embryoblast,76.0,shared_2plus_tissues,Shared in >=2 tissue groups,cell_type_breadth_burden
+DB2,Germ layer-specific,0.0,shared_2plus_tissues,Shared in >=2 tissue groups,cell_type_breadth_burden
+DB3,Germ layer-specific,34.0,shared_2plus_tissues,Shared in >=2 tissue groups,cell_type_breadth_burden
+DB5,Germ layer-specific,0.0,shared_2plus_tissues,Shared in >=2 tissue groups,cell_type_breadth_burden
+DB2,Tissue-specific,0.0,shared_2plus_tissues,Shared in >=2 tissue groups,cell_type_breadth_burden
+DB3,Tissue-specific,0.0,shared_2plus_tissues,Shared in >=2 tissue groups,cell_type_breadth_burden
+DB5,Tissue-specific,0.0,shared_2plus_tissues,Shared in >=2 tissue groups,cell_type_breadth_burden
+DB2,Adult-specific,0.0,shared_2plus_tissues,Shared in >=2 tissue groups,cell_type_breadth_burden
+DB3,Adult-specific,0.0,shared_2plus_tissues,Shared in >=2 tissue groups,cell_type_breadth_burden
+DB5,Adult-specific,0.0,shared_2plus_tissues,Shared in >=2 tissue groups,cell_type_breadth_burden
+DB2,Embryoblast,1.0,shared_2plus_tissues,Shared in >=2 tissue groups,site_fraction
+DB3,Embryoblast,0.6909090909090909,shared_2plus_tissues,Shared in >=2 tissue groups,site_fraction
+DB5,Embryoblast,1.0,shared_2plus_tissues,Shared in >=2 tissue groups,site_fraction
+DB2,Germ layer-specific,0.0,shared_2plus_tissues,Shared in >=2 tissue groups,site_fraction
+DB3,Germ layer-specific,0.3090909090909091,shared_2plus_tissues,Shared in >=2 tissue groups,site_fraction
+DB5,Germ layer-specific,0.0,shared_2plus_tissues,Shared in >=2 tissue groups,site_fraction
+DB2,Tissue-specific,0.0,shared_2plus_tissues,Shared in >=2 tissue groups,site_fraction
+DB3,Tissue-specific,0.0,shared_2plus_tissues,Shared in >=2 tissue groups,site_fraction
+DB5,Tissue-specific,0.0,shared_2plus_tissues,Shared in >=2 tissue groups,site_fraction
+DB2,Adult-specific,0.0,shared_2plus_tissues,Shared in >=2 tissue groups,site_fraction
+DB3,Adult-specific,0.0,shared_2plus_tissues,Shared in >=2 tissue groups,site_fraction
+DB5,Adult-specific,0.0,shared_2plus_tissues,Shared in >=2 tissue groups,site_fraction
+DB2,Embryoblast,1.0,shared_2plus_tissues,Shared in >=2 tissue groups,cell_type_breadth_fraction
+DB3,Embryoblast,0.7518248175182481,shared_2plus_tissues,Shared in >=2 tissue groups,cell_type_breadth_fraction
+DB5,Embryoblast,1.0,shared_2plus_tissues,Shared in >=2 tissue groups,cell_type_breadth_fraction
+DB2,Germ layer-specific,0.0,shared_2plus_tissues,Shared in >=2 tissue groups,cell_type_breadth_fraction
+DB3,Germ layer-specific,0.24817518248175183,shared_2plus_tissues,Shared in >=2 tissue groups,cell_type_breadth_fraction
+DB5,Germ layer-specific,0.0,shared_2plus_tissues,Shared in >=2 tissue groups,cell_type_breadth_fraction
+DB2,Tissue-specific,0.0,shared_2plus_tissues,Shared in >=2 tissue groups,cell_type_breadth_fraction
+DB3,Tissue-specific,0.0,shared_2plus_tissues,Shared in >=2 tissue groups,cell_type_breadth_fraction
+DB5,Tissue-specific,0.0,shared_2plus_tissues,Shared in >=2 tissue groups,cell_type_breadth_fraction
+DB2,Adult-specific,0.0,shared_2plus_tissues,Shared in >=2 tissue groups,cell_type_breadth_fraction
+DB3,Adult-specific,0.0,shared_2plus_tissues,Shared in >=2 tissue groups,cell_type_breadth_fraction
+DB5,Adult-specific,0.0,shared_2plus_tissues,Shared in >=2 tissue groups,cell_type_breadth_fraction
+DB2,Zygote,0.0,shared_2plus_tissues,Shared in >=2 tissue groups,site_cumulative
+DB3,Zygote,0.0,shared_2plus_tissues,Shared in >=2 tissue groups,site_cumulative
+DB5,Zygote,0.0,shared_2plus_tissues,Shared in >=2 tissue groups,site_cumulative
+DB2,Embryoblast,1.0,shared_2plus_tissues,Shared in >=2 tissue groups,site_cumulative
+DB3,Embryoblast,0.6909090909090909,shared_2plus_tissues,Shared in >=2 tissue groups,site_cumulative
+DB5,Embryoblast,1.0,shared_2plus_tissues,Shared in >=2 tissue groups,site_cumulative
+DB2,Germ layer-specific,1.0,shared_2plus_tissues,Shared in >=2 tissue groups,site_cumulative
+DB3,Germ layer-specific,1.0,shared_2plus_tissues,Shared in >=2 tissue groups,site_cumulative
+DB5,Germ layer-specific,1.0,shared_2plus_tissues,Shared in >=2 tissue groups,site_cumulative
+DB2,Tissue-specific,1.0,shared_2plus_tissues,Shared in >=2 tissue groups,site_cumulative
+DB3,Tissue-specific,1.0,shared_2plus_tissues,Shared in >=2 tissue groups,site_cumulative
+DB5,Tissue-specific,1.0,shared_2plus_tissues,Shared in >=2 tissue groups,site_cumulative
+DB2,Adult-specific,1.0,shared_2plus_tissues,Shared in >=2 tissue groups,site_cumulative
+DB3,Adult-specific,1.0,shared_2plus_tissues,Shared in >=2 tissue groups,site_cumulative
+DB5,Adult-specific,1.0,shared_2plus_tissues,Shared in >=2 tissue groups,site_cumulative
+DB2,Zygote,0.0,shared_2plus_tissues,Shared in >=2 tissue groups,cell_type_breadth_cumulative
+DB3,Zygote,0.0,shared_2plus_tissues,Shared in >=2 tissue groups,cell_type_breadth_cumulative
+DB5,Zygote,0.0,shared_2plus_tissues,Shared in >=2 tissue groups,cell_type_breadth_cumulative
+DB2,Embryoblast,1.0,shared_2plus_tissues,Shared in >=2 tissue groups,cell_type_breadth_cumulative
+DB3,Embryoblast,0.7518248175182481,shared_2plus_tissues,Shared in >=2 tissue groups,cell_type_breadth_cumulative
+DB5,Embryoblast,1.0,shared_2plus_tissues,Shared in >=2 tissue groups,cell_type_breadth_cumulative
+DB2,Germ layer-specific,1.0,shared_2plus_tissues,Shared in >=2 tissue groups,cell_type_breadth_cumulative
+DB3,Germ layer-specific,1.0,shared_2plus_tissues,Shared in >=2 tissue groups,cell_type_breadth_cumulative
+DB5,Germ layer-specific,1.0,shared_2plus_tissues,Shared in >=2 tissue groups,cell_type_breadth_cumulative
+DB2,Tissue-specific,1.0,shared_2plus_tissues,Shared in >=2 tissue groups,cell_type_breadth_cumulative
+DB3,Tissue-specific,1.0,shared_2plus_tissues,Shared in >=2 tissue groups,cell_type_breadth_cumulative
+DB5,Tissue-specific,1.0,shared_2plus_tissues,Shared in >=2 tissue groups,cell_type_breadth_cumulative
+DB2,Adult-specific,1.0,shared_2plus_tissues,Shared in >=2 tissue groups,cell_type_breadth_cumulative
+DB3,Adult-specific,1.0,shared_2plus_tissues,Shared in >=2 tissue groups,cell_type_breadth_cumulative
+DB5,Adult-specific,1.0,shared_2plus_tissues,Shared in >=2 tissue groups,cell_type_breadth_cumulative
+DB2,Embryoblast,31.0,shared_2plus_layers,Shared in >=2 germ layers,site_count
+DB3,Embryoblast,38.0,shared_2plus_layers,Shared in >=2 germ layers,site_count
+DB5,Embryoblast,34.0,shared_2plus_layers,Shared in >=2 germ layers,site_count
+DB2,Germ layer-specific,0.0,shared_2plus_layers,Shared in >=2 germ layers,site_count
+DB3,Germ layer-specific,0.0,shared_2plus_layers,Shared in >=2 germ layers,site_count
+DB5,Germ layer-specific,0.0,shared_2plus_layers,Shared in >=2 germ layers,site_count
+DB2,Tissue-specific,0.0,shared_2plus_layers,Shared in >=2 germ layers,site_count
+DB3,Tissue-specific,0.0,shared_2plus_layers,Shared in >=2 germ layers,site_count
+DB5,Tissue-specific,0.0,shared_2plus_layers,Shared in >=2 germ layers,site_count
+DB2,Adult-specific,0.0,shared_2plus_layers,Shared in >=2 germ layers,site_count
+DB3,Adult-specific,0.0,shared_2plus_layers,Shared in >=2 germ layers,site_count
+DB5,Adult-specific,0.0,shared_2plus_layers,Shared in >=2 germ layers,site_count
+DB2,Embryoblast,69.0,shared_2plus_layers,Shared in >=2 germ layers,cell_type_breadth_burden
+DB3,Embryoblast,103.0,shared_2plus_layers,Shared in >=2 germ layers,cell_type_breadth_burden
+DB5,Embryoblast,76.0,shared_2plus_layers,Shared in >=2 germ layers,cell_type_breadth_burden
+DB2,Germ layer-specific,0.0,shared_2plus_layers,Shared in >=2 germ layers,cell_type_breadth_burden
+DB3,Germ layer-specific,0.0,shared_2plus_layers,Shared in >=2 germ layers,cell_type_breadth_burden
+DB5,Germ layer-specific,0.0,shared_2plus_layers,Shared in >=2 germ layers,cell_type_breadth_burden
+DB2,Tissue-specific,0.0,shared_2plus_layers,Shared in >=2 germ layers,cell_type_breadth_burden
+DB3,Tissue-specific,0.0,shared_2plus_layers,Shared in >=2 germ layers,cell_type_breadth_burden
+DB5,Tissue-specific,0.0,shared_2plus_layers,Shared in >=2 germ layers,cell_type_breadth_burden
+DB2,Adult-specific,0.0,shared_2plus_layers,Shared in >=2 germ layers,cell_type_breadth_burden
+DB3,Adult-specific,0.0,shared_2plus_layers,Shared in >=2 germ layers,cell_type_breadth_burden
+DB5,Adult-specific,0.0,shared_2plus_layers,Shared in >=2 germ layers,cell_type_breadth_burden
+DB2,Embryoblast,1.0,shared_2plus_layers,Shared in >=2 germ layers,site_fraction
+DB3,Embryoblast,1.0,shared_2plus_layers,Shared in >=2 germ layers,site_fraction
+DB5,Embryoblast,1.0,shared_2plus_layers,Shared in >=2 germ layers,site_fraction
+DB2,Germ layer-specific,0.0,shared_2plus_layers,Shared in >=2 germ layers,site_fraction
+DB3,Germ layer-specific,0.0,shared_2plus_layers,Shared in >=2 germ layers,site_fraction
+DB5,Germ layer-specific,0.0,shared_2plus_layers,Shared in >=2 germ layers,site_fraction
+DB2,Tissue-specific,0.0,shared_2plus_layers,Shared in >=2 germ layers,site_fraction
+DB3,Tissue-specific,0.0,shared_2plus_layers,Shared in >=2 germ layers,site_fraction
+DB5,Tissue-specific,0.0,shared_2plus_layers,Shared in >=2 germ layers,site_fraction
+DB2,Adult-specific,0.0,shared_2plus_layers,Shared in >=2 germ layers,site_fraction
+DB3,Adult-specific,0.0,shared_2plus_layers,Shared in >=2 germ layers,site_fraction
+DB5,Adult-specific,0.0,shared_2plus_layers,Shared in >=2 germ layers,site_fraction
+DB2,Embryoblast,1.0,shared_2plus_layers,Shared in >=2 germ layers,cell_type_breadth_fraction
+DB3,Embryoblast,1.0,shared_2plus_layers,Shared in >=2 germ layers,cell_type_breadth_fraction
+DB5,Embryoblast,1.0,shared_2plus_layers,Shared in >=2 germ layers,cell_type_breadth_fraction
+DB2,Germ layer-specific,0.0,shared_2plus_layers,Shared in >=2 germ layers,cell_type_breadth_fraction
+DB3,Germ layer-specific,0.0,shared_2plus_layers,Shared in >=2 germ layers,cell_type_breadth_fraction
+DB5,Germ layer-specific,0.0,shared_2plus_layers,Shared in >=2 germ layers,cell_type_breadth_fraction
+DB2,Tissue-specific,0.0,shared_2plus_layers,Shared in >=2 germ layers,cell_type_breadth_fraction
+DB3,Tissue-specific,0.0,shared_2plus_layers,Shared in >=2 germ layers,cell_type_breadth_fraction
+DB5,Tissue-specific,0.0,shared_2plus_layers,Shared in >=2 germ layers,cell_type_breadth_fraction
+DB2,Adult-specific,0.0,shared_2plus_layers,Shared in >=2 germ layers,cell_type_breadth_fraction
+DB3,Adult-specific,0.0,shared_2plus_layers,Shared in >=2 germ layers,cell_type_breadth_fraction
+DB5,Adult-specific,0.0,shared_2plus_layers,Shared in >=2 germ layers,cell_type_breadth_fraction
+DB2,Zygote,0.0,shared_2plus_layers,Shared in >=2 germ layers,site_cumulative
+DB3,Zygote,0.0,shared_2plus_layers,Shared in >=2 germ layers,site_cumulative
+DB5,Zygote,0.0,shared_2plus_layers,Shared in >=2 germ layers,site_cumulative
+DB2,Embryoblast,1.0,shared_2plus_layers,Shared in >=2 germ layers,site_cumulative
+DB3,Embryoblast,1.0,shared_2plus_layers,Shared in >=2 germ layers,site_cumulative
+DB5,Embryoblast,1.0,shared_2plus_layers,Shared in >=2 germ layers,site_cumulative
+DB2,Germ layer-specific,1.0,shared_2plus_layers,Shared in >=2 germ layers,site_cumulative
+DB3,Germ layer-specific,1.0,shared_2plus_layers,Shared in >=2 germ layers,site_cumulative
+DB5,Germ layer-specific,1.0,shared_2plus_layers,Shared in >=2 germ layers,site_cumulative
+DB2,Tissue-specific,1.0,shared_2plus_layers,Shared in >=2 germ layers,site_cumulative
+DB3,Tissue-specific,1.0,shared_2plus_layers,Shared in >=2 germ layers,site_cumulative
+DB5,Tissue-specific,1.0,shared_2plus_layers,Shared in >=2 germ layers,site_cumulative
+DB2,Adult-specific,1.0,shared_2plus_layers,Shared in >=2 germ layers,site_cumulative
+DB3,Adult-specific,1.0,shared_2plus_layers,Shared in >=2 germ layers,site_cumulative
+DB5,Adult-specific,1.0,shared_2plus_layers,Shared in >=2 germ layers,site_cumulative
+DB2,Zygote,0.0,shared_2plus_layers,Shared in >=2 germ layers,cell_type_breadth_cumulative
+DB3,Zygote,0.0,shared_2plus_layers,Shared in >=2 germ layers,cell_type_breadth_cumulative
+DB5,Zygote,0.0,shared_2plus_layers,Shared in >=2 germ layers,cell_type_breadth_cumulative
+DB2,Embryoblast,1.0,shared_2plus_layers,Shared in >=2 germ layers,cell_type_breadth_cumulative
+DB3,Embryoblast,1.0,shared_2plus_layers,Shared in >=2 germ layers,cell_type_breadth_cumulative
+DB5,Embryoblast,1.0,shared_2plus_layers,Shared in >=2 germ layers,cell_type_breadth_cumulative
+DB2,Germ layer-specific,1.0,shared_2plus_layers,Shared in >=2 germ layers,cell_type_breadth_cumulative
+DB3,Germ layer-specific,1.0,shared_2plus_layers,Shared in >=2 germ layers,cell_type_breadth_cumulative
+DB5,Germ layer-specific,1.0,shared_2plus_layers,Shared in >=2 germ layers,cell_type_breadth_cumulative
+DB2,Tissue-specific,1.0,shared_2plus_layers,Shared in >=2 germ layers,cell_type_breadth_cumulative
+DB3,Tissue-specific,1.0,shared_2plus_layers,Shared in >=2 germ layers,cell_type_breadth_cumulative
+DB5,Tissue-specific,1.0,shared_2plus_layers,Shared in >=2 germ layers,cell_type_breadth_cumulative
+DB2,Adult-specific,1.0,shared_2plus_layers,Shared in >=2 germ layers,cell_type_breadth_cumulative
+DB3,Adult-specific,1.0,shared_2plus_layers,Shared in >=2 germ layers,cell_type_breadth_cumulative
+DB5,Adult-specific,1.0,shared_2plus_layers,Shared in >=2 germ layers,cell_type_breadth_cumulative

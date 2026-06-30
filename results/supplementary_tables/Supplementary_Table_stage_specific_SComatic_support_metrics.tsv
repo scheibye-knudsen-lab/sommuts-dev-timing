@@ -1,0 +1,9 @@
+dataset	species	developmental_stage	stage_assignment_rule	min_total_supporting_cells_threshold	n_donor_variant_calls	n_unique_loci	n_donors	total_cells_supporting	median_cells_supporting	mean_cells_supporting	min_cells_supporting	max_cells_supporting	median_cell_types	mean_cell_types	min_cell_types	max_cell_types	median_tissues	mean_tissues	min_tissues	max_tissues	median_germ_layers	mean_germ_layers	min_germ_layers	max_germ_layers
+Tabula Muris	Mouse	Embryoblast	Observed in at least two germ layers.	3	305	283	9	3165	8.0	10.38	3	70	2.0	2.51	1	9	2.0	2.18	2	4	2.0	2.05	2	3
+Tabula Muris	Mouse	Germ layer-specific	Restricted to one germ layer but observed in at least two tissues within that germ layer.	3	360	320	9	4499	8.0	12.5	3	116	2.0	2.78	1	9	2.0	2.12	2	4	1.0	1.0	1	1
+Tabula Muris	Mouse	Tissue-specific	Confined to one tissue but observed in at least two distinct cell types within that tissue.	3	2122	1757	9	13885	5.0	6.54	3	61	2.0	2.28	2	8	1.0	1.0	1	1	1.0	1.0	1	1
+Tabula Muris	Mouse	Adult-specific	Confined to one cell type/tissue compartment.	3	3390	2904	9	15469	3.0	4.56	3	82	1.0	1.0	1	1	1.0	1.0	1	1	1.0	1.0	1	1
+Tabula Sapiens	Human	Embryoblast	Observed in at least two germ layers.	3	2824	2807	10	26870	7.0	9.51	3	309	4.0	4.64	2	21	3.0	3.29	1	10	2.0	2.1	2	4
+Tabula Sapiens	Human	Germ layer-specific	Restricted to one germ layer but observed in at least two tissues within that germ layer.	3	4386	4342	8	25665	5.0	5.85	3	59	2.0	2.97	1	13	2.0	2.56	2	8	1.0	1.0	1	1
+Tabula Sapiens	Human	Tissue-specific	Confined to one tissue but observed in at least two distinct cell types within that tissue.	3	1292	1289	11	8238	4.0	6.38	3	125	2.0	2.29	2	6	1.0	1.0	1	1	1.0	1.0	1	1
+Tabula Sapiens	Human	Adult-specific	Confined to one cell type/tissue compartment.	3	2353	2320	11	9991	3.0	4.25	3	78	1.0	1.0	1	1	1.0	1.0	1	1	1.0	1.0	1	1
