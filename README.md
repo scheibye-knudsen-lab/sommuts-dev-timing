@@ -37,6 +37,23 @@ python3 scripts/run_reproduction.py --only extended --full   --human-gtf /path/t
 
 The same paths can be supplied through `LORE2026_HUMAN_GTF`, `LORE2026_MOUSE_GTF`, and `LORE2026_MM10_FASTA`.
 
+## Single Donor Demo (TabMur)
+
+The package also includes a lightweight Tabula Muris single-donor demo workflow for illustrating the SComatic-based variant-calling and downstream-processing structure on a small example. This demo is intended as a pipeline demonstration and smoke test, not as a full reproduction of the complete Tabula Muris cohort analysis.
+
+The demo uses bundled lightweight example inputs where available. The full Tabula Muris analysis requires omitted raw BAM files, full cell metadata, SComatic resources, and reference files.
+
+For a full local rerun with external resources available, use:
+
+```bash
+python3 scripts/run_reproduction.py --only extended --full \
+  --human-gtf /path/to/gencode_v44.gtf \
+  --mouse-gtf /path/to/gencode.vM36.annotation.gtf \
+  --mouse-fasta /path/to/mm10.fa
+```
+
+The same paths can be supplied through LORE2026_HUMAN_GTF, LORE2026_MOUSE_GTF, and LORE2026_MM10_FASTA.
+
 ## SComatic Variant Calling
 
 Raw BAMs and intermediate SComatic outputs are not bundled, but the package includes shell entry points for rerunning SComatic when those external files are available:
@@ -82,7 +99,7 @@ The manifest is tab-delimited with columns `sample`, `library_id`, `bam`, and `m
 
 `Supp.ipynb` is ordered to match the Extended Data document:
 
-1. Extended Data Fig. 1, schematic/artwork note
+1. Extended Data Fig. 1, schematic
 2. Extended Data Fig. 2
 3. Extended Data Fig. 3, orthogonal and external validation
 4. Extended Data Fig. 4
@@ -93,8 +110,8 @@ The manifest is tab-delimited with columns `sample`, `library_id`, `bam`, and `m
 9. Extended Data Fig. 9
 10. Extended Data Fig. 10
 11. Extended Data Fig. 11
-12. Extended Data Fig. 12, external EnrichmentMap/Cytoscape artwork note
-13. Extended Data Fig. 13, external EnrichmentMap/Cytoscape artwork note
+12. Extended Data Fig. 12, external EnrichmentMap/Cytoscape
+13. Extended Data Fig. 13, external EnrichmentMap/Cytoscape
 14. Extended Data Fig. 14
 15. Extended Data Fig. 15
 
